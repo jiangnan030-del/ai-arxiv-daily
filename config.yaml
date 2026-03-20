@@ -1,0 +1,48 @@
+# AI/LLM Arxiv Daily - Auto-track AI papers
+base_url: "https://arxiv.paperswithcode.com/api/v0/papers/"
+user_name: "jiangnan030-del"
+repo_name: "ai-arxiv-daily"
+show_authors: True
+show_links: True
+show_badge: True
+max_results: 10
+
+publish_readme: True
+publish_gitpage: True
+publish_wechat: False
+
+# file paths
+json_readme_path: './docs/cv-arxiv-daily.json'
+json_gitpage_path: './docs/cv-arxiv-daily-web.json'
+json_wechat_path: './docs/cv-arxiv-daily-wechat.json'
+
+md_readme_path: 'README.md'
+md_gitpage_path: './docs/index.md'
+md_wechat_path: './docs/wechat.md'
+
+# keywords to search
+keywords:
+    "Large Language Model":
+        filters: ["Large Language Model", "LLM", "GPT", "ChatGPT",
+                  "Language Model Pretraining", "Instruction Tuning"]
+    "AI Agent":
+        filters: ["AI Agent", "Autonomous Agent", "Tool Use",
+                  "LLM Agent", "Multi-Agent", "Agent Planning"]
+    "RAG":
+        filters: ["Retrieval Augmented Generation", "RAG",
+                  "Knowledge Retrieval", "Dense Retrieval"]
+    "Prompt Engineering":
+        filters: ["Prompt Engineering", "In-Context Learning",
+                  "Chain of Thought", "Few-Shot Learning", "Reasoning"]
+    "RLHF":
+        filters: ["RLHF", "Reinforcement Learning from Human Feedback",
+                  "DPO", "Direct Preference Optimization", "Alignment"]
+    "Multimodal":
+        filters: ["Multimodal", "Vision Language Model", "VLM",
+                  "Image-Text", "Visual Question Answering"]
+    "Code Generation":
+        filters: ["Code Generation", "Code LLM", "Program Synthesis",
+                  "Automated Programming"]
+    "Fine-tuning":
+        filters: ["Fine-tuning", "LoRA", "Parameter Efficient",
+                  "PEFT", "Adapter", "Model Compression"]
