@@ -2,13 +2,23 @@
 layout: default
 ---
 
-## Updated on 2026.03.22
+## Updated on 2026.03.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Large Language Model
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-20**|**LumosX: Relate Any Identities with Their Attributes for Personalized Video Generation**|Jiazheng Xing et.al.|[2603.20192](http://arxiv.org/abs/2603.20192)|null|
+|**2026-03-20**|**VideoSeek: Long-Horizon Video Agent with Tool-Guided Seeking**|Jingyang Lin et.al.|[2603.20185](http://arxiv.org/abs/2603.20185)|null|
+|**2026-03-20**|**IndoorR2X: Indoor Robot-to-Everything Coordination with LLM-Driven Planning**|Fan Yang et.al.|[2603.20182](http://arxiv.org/abs/2603.20182)|null|
+|**2026-03-20**|**Improving Generalization on Cybersecurity Tasks with Multi-Modal Contrastive Learning**|Jianan Huang et.al.|[2603.20181](http://arxiv.org/abs/2603.20181)|null|
+|**2026-03-20**|**AI Agents Can Already Autonomously Perform Experimental High Energy Physics**|Eric A. Moreno et.al.|[2603.20179](http://arxiv.org/abs/2603.20179)|null|
+|**2026-03-20**|**Measuring Faithfulness Depends on How You Measure: Classifier Sensitivity in LLM Chain-of-Thought Evaluation**|Richard J. Young et.al.|[2603.20172](http://arxiv.org/abs/2603.20172)|null|
+|**2026-03-20**|**Learning Dynamic Belief Graphs for Theory-of-mind Reasoning**|Ruxiao Chen et.al.|[2603.20170](http://arxiv.org/abs/2603.20170)|null|
+|**2026-03-20**|**Evaluating Evidence Grounding Under User Pressure in Instruction-Tuned Language Models**|Sai Koneru et.al.|[2603.20162](http://arxiv.org/abs/2603.20162)|null|
+|**2026-03-20**|**Semantic Token Clustering for Efficient Uncertainty Quantification in Large Language Models**|Qi Cao et.al.|[2603.20161](http://arxiv.org/abs/2603.20161)|null|
+|**2026-03-20**|**Reasoning Gets Harder for LLMs Inside A Dialogue**|Ivan Kartáč et.al.|[2603.20133](http://arxiv.org/abs/2603.20133)|null|
 |**2026-03-19**|**Generation Models Know Space: Unleashing Implicit 3D Priors for Scene Understanding**|Xianjin Wu et.al.|[2603.19235](http://arxiv.org/abs/2603.19235)|null|
 |**2026-03-19**|**FinTradeBench: A Financial Reasoning Benchmark for LLMs**|Yogesh Agrawal et.al.|[2603.19225](http://arxiv.org/abs/2603.19225)|null|
 |**2026-03-19**|**F2LLM-v2: Inclusive, Performant, and Efficient Embeddings for a Multilingual World**|Ziyin Zhang et.al.|[2603.19223](http://arxiv.org/abs/2603.19223)|null|
@@ -24,6 +34,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-20**|**VideoSeek: Long-Horizon Video Agent with Tool-Guided Seeking**|Jingyang Lin et.al.|[2603.20185](http://arxiv.org/abs/2603.20185)|null|
+|**2026-03-20**|**AI Agents Can Already Autonomously Perform Experimental High Energy Physics**|Eric A. Moreno et.al.|[2603.20179](http://arxiv.org/abs/2603.20179)|null|
+|**2026-03-20**|**Design-OS: A Specification-Driven Framework for Engineering System Design with a Control-Systems Design Case**|H. Sinan Bank et.al.|[2603.20151](http://arxiv.org/abs/2603.20151)|null|
+|**2026-03-20**|**Can Large Multimodal Models Inspect Buildings? A Hierarchical Benchmark for Structural Pathology Reasoning**|Hui Zhong et.al.|[2603.20148](http://arxiv.org/abs/2603.20148)|null|
+|**2026-03-20**|**Synergistic Perception and Generative Recomposition: A Multi-Agent Orchestration for Expert-Level Building Inspection**|Hui Zhong et.al.|[2603.20143](http://arxiv.org/abs/2603.20143)|null|
+|**2026-03-20**|**Reasoning Gets Harder for LLMs Inside A Dialogue**|Ivan Kartáč et.al.|[2603.20133](http://arxiv.org/abs/2603.20133)|null|
+|**2026-03-20**|**Revisiting Gene Ontology Knowledge Discovery with Hierarchical Feature Selection and Virtual Study Group of AI Agents**|Cen Wan et.al.|[2603.20132](http://arxiv.org/abs/2603.20132)|null|
+|**2026-03-20**|**An Agentic Multi-Agent Architecture for Cybersecurity Risk Management**|Ravish Gupta et.al.|[2603.20131](http://arxiv.org/abs/2603.20131)|null|
+|**2026-03-20**|**Agentic Harness for Real-World Compilers**|Yingwei Zheng et.al.|[2603.20075](http://arxiv.org/abs/2603.20075)|null|
+|**2026-03-20**|**Orchestrating Human-AI Software Delivery: A Retrospective Longitudinal Field Study of Three Software Modernization Programs**|Maximiliano Armesto et.al.|[2603.20028](http://arxiv.org/abs/2603.20028)|null|
 |**2026-03-19**|**Nemotron-Cascade 2: Post-Training LLMs with Cascade RL and Multi-Domain On-Policy Distillation**|Zhuolin Yang et.al.|[2603.19220](http://arxiv.org/abs/2603.19220)|null|
 |**2026-03-19**|**OS-Themis: A Scalable Critic Framework for Generalist GUI Rewards**|Zehao Li et.al.|[2603.19191](http://arxiv.org/abs/2603.19191)|null|
 |**2026-03-19**|**Markov Potential Game and Multi-Agent Reinforcement Learning for Autonomous Driving**|Huiwen Yan et.al.|[2603.19188](http://arxiv.org/abs/2603.19188)|null|
@@ -39,6 +59,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-20**|**AI Agents Can Already Autonomously Perform Experimental High Energy Physics**|Eric A. Moreno et.al.|[2603.20179](http://arxiv.org/abs/2603.20179)|null|
+|**2026-03-20**|**LLM-Enhanced Semantic Data Integration of Electronic Component Qualifications in the Aerospace Domain**|Antonio De Santis et.al.|[2603.20094](http://arxiv.org/abs/2603.20094)|null|
+|**2026-03-20**|**CoverageBench: Evaluating Information Coverage across Tasks and Domains**|Saron Samuel et.al.|[2603.20034](http://arxiv.org/abs/2603.20034)|null|
+|**2026-03-19**|**Spectral Tempering for Embedding Compression in Dense Passage Retrieval**|Yongkang Li et.al.|[2603.19339](http://arxiv.org/abs/2603.19339)|null|
 |**2026-03-19**|**DaPT: A Dual-Path Framework for Multilingual Multi-hop Question Answering**|Yilin Wang et.al.|[2603.19097](http://arxiv.org/abs/2603.19097)|null|
 |**2026-03-19**|**Hypothesis-Conditioned Query Rewriting for Decision-Useful Retrieval**|Hangeol Chang et.al.|[2603.19008](http://arxiv.org/abs/2603.19008)|null|
 |**2026-03-19**|**CyberJustice Tutor: An Agentic AI Framework for Cybersecurity Learning via Think-Plan-Act Reasoning and Pedagogical Scaffolding**|Baiqiang Wang et.al.|[2603.18470](http://arxiv.org/abs/2603.18470)|null|
@@ -54,6 +78,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-20**|**MME-CoF-Pro: Evaluating Reasoning Coherence in Video Generative Models with Text and Visual Hints**|Yu Qi et.al.|[2603.20194](http://arxiv.org/abs/2603.20194)|null|
+|**2026-03-20**|**CoVR-R:Reason-Aware Composed Video Retrieval**|Omkar Thawakar et.al.|[2603.20190](http://arxiv.org/abs/2603.20190)|null|
+|**2026-03-20**|**VideoSeek: Long-Horizon Video Agent with Tool-Guided Seeking**|Jingyang Lin et.al.|[2603.20185](http://arxiv.org/abs/2603.20185)|null|
+|**2026-03-20**|**Measuring Faithfulness Depends on How You Measure: Classifier Sensitivity in LLM Chain-of-Thought Evaluation**|Richard J. Young et.al.|[2603.20172](http://arxiv.org/abs/2603.20172)|null|
+|**2026-03-20**|**Learning Dynamic Belief Graphs for Theory-of-mind Reasoning**|Ruxiao Chen et.al.|[2603.20170](http://arxiv.org/abs/2603.20170)|null|
+|**2026-03-20**|**Evaluating Evidence Grounding Under User Pressure in Instruction-Tuned Language Models**|Sai Koneru et.al.|[2603.20162](http://arxiv.org/abs/2603.20162)|null|
+|**2026-03-20**|**Can Large Multimodal Models Inspect Buildings? A Hierarchical Benchmark for Structural Pathology Reasoning**|Hui Zhong et.al.|[2603.20148](http://arxiv.org/abs/2603.20148)|null|
+|**2026-03-20**|**Synergistic Perception and Generative Recomposition: A Multi-Agent Orchestration for Expert-Level Building Inspection**|Hui Zhong et.al.|[2603.20143](http://arxiv.org/abs/2603.20143)|null|
+|**2026-03-20**|**Reasoning Gets Harder for LLMs Inside A Dialogue**|Ivan Kartáč et.al.|[2603.20133](http://arxiv.org/abs/2603.20133)|null|
+|**2026-03-20**|**Chain-of-Adaptation: Surgical Vision-Language Adaptation with Reinforcement Learning**|Jiajie Li et.al.|[2603.20116](http://arxiv.org/abs/2603.20116)|null|
 |**2026-03-19**|**Generation Models Know Space: Unleashing Implicit 3D Priors for Scene Understanding**|Xianjin Wu et.al.|[2603.19235](http://arxiv.org/abs/2603.19235)|null|
 |**2026-03-19**|**MonoArt: Progressive Structural Reasoning for Monocular Articulated 3D Reconstruction**|Haitian Li et.al.|[2603.19231](http://arxiv.org/abs/2603.19231)|null|
 |**2026-03-19**|**FinTradeBench: A Financial Reasoning Benchmark for LLMs**|Yogesh Agrawal et.al.|[2603.19225](http://arxiv.org/abs/2603.19225)|null|
@@ -69,6 +103,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-20**|**LumosX: Relate Any Identities with Their Attributes for Personalized Video Generation**|Jiazheng Xing et.al.|[2603.20192](http://arxiv.org/abs/2603.20192)|null|
+|**2026-03-20**|**CoVR-R:Reason-Aware Composed Video Retrieval**|Omkar Thawakar et.al.|[2603.20190](http://arxiv.org/abs/2603.20190)|null|
+|**2026-03-20**|**Improving Generalization on Cybersecurity Tasks with Multi-Modal Contrastive Learning**|Jianan Huang et.al.|[2603.20181](http://arxiv.org/abs/2603.20181)|null|
+|**2026-03-20**|**Adaptive Greedy Frame Selection for Long Video Understanding**|Yuning Huang et.al.|[2603.20180](http://arxiv.org/abs/2603.20180)|null|
+|**2026-03-20**|**TinyML Enhances CubeSat Mission Capabilities**|Luigi Capogrosso et.al.|[2603.20174](http://arxiv.org/abs/2603.20174)|null|
+|**2026-03-20**|**VINTERGATAN-GM: long-lived satellite planes induced by a massive GSE-like merger**|R. Rodríguez-Cardoso et.al.|[2603.20171](http://arxiv.org/abs/2603.20171)|null|
+|**2026-03-20**|**EgoForge: Goal-Directed Egocentric World Simulator**|Yifan Shen et.al.|[2603.20169](http://arxiv.org/abs/2603.20169)|null|
+|**2026-03-20**|**Evaluating Evidence Grounding Under User Pressure in Instruction-Tuned Language Models**|Sai Koneru et.al.|[2603.20162](http://arxiv.org/abs/2603.20162)|null|
+|**2026-03-20**|**An Agentic Multi-Agent Architecture for Cybersecurity Risk Management**|Ravish Gupta et.al.|[2603.20131](http://arxiv.org/abs/2603.20131)|null|
+|**2026-03-20**|**KUKAloha: A General, Low-Cost, and Shared-Control based Teleoperation Framework for Construction Robot Arm**|Yifan Xu et.al.|[2603.20129](http://arxiv.org/abs/2603.20129)|null|
 |**2026-03-19**|**Not All Features Are Created Equal: A Mechanistic Study of Vision-Language-Action Models**|Bryce Grant et.al.|[2603.19233](http://arxiv.org/abs/2603.19233)|null|
 |**2026-03-19**|**SAMA: Factorized Semantic Anchoring and Motion Alignment for Instruction-Guided Video Editing**|Xinyao Zhang et.al.|[2603.19228](http://arxiv.org/abs/2603.19228)|null|
 |**2026-03-19**|**FinTradeBench: A Financial Reasoning Benchmark for LLMs**|Yogesh Agrawal et.al.|[2603.19225](http://arxiv.org/abs/2603.19225)|null|
@@ -84,6 +128,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-20**|**From Masks to Pixels and Meaning: A New Taxonomy, Benchmark, and Metrics for VLM Image Tampering**|Xinyi Shang et.al.|[2603.20193](http://arxiv.org/abs/2603.20193)|null|
+|**2026-03-20**|**LumosX: Relate Any Identities with Their Attributes for Personalized Video Generation**|Jiazheng Xing et.al.|[2603.20192](http://arxiv.org/abs/2603.20192)|null|
+|**2026-03-20**|**CoVR-R:Reason-Aware Composed Video Retrieval**|Omkar Thawakar et.al.|[2603.20190](http://arxiv.org/abs/2603.20190)|null|
+|**2026-03-20**|**Improving Image-to-Image Translation via a Rectified Flow Reformulation**|Satoshi Iizuka et.al.|[2603.20186](http://arxiv.org/abs/2603.20186)|null|
+|**2026-03-20**|**Adaptive Greedy Frame Selection for Long Video Understanding**|Yuning Huang et.al.|[2603.20180](http://arxiv.org/abs/2603.20180)|null|
+|**2026-03-20**|**The Robot's Inner Critic: Self-Refinement of Social Behaviors through VLM-based Replanning**|Jiyu Lim et.al.|[2603.20164](http://arxiv.org/abs/2603.20164)|null|
+|**2026-03-20**|**Beyond Single Tokens: Distilling Discrete Diffusion Models via Discrete MMD**|Emiel Hoogeboom et.al.|[2603.20155](http://arxiv.org/abs/2603.20155)|null|
+|**2026-03-20**|**HortiMulti: A Multi-Sensor Dataset for Localisation and Mapping in Horticultural Polytunnels**|Shuoyuan Xu et.al.|[2603.20150](http://arxiv.org/abs/2603.20150)|null|
+|**2026-03-20**|**Can Large Multimodal Models Inspect Buildings? A Hierarchical Benchmark for Structural Pathology Reasoning**|Hui Zhong et.al.|[2603.20148](http://arxiv.org/abs/2603.20148)|null|
+|**2026-03-20**|**Chain-of-Adaptation: Surgical Vision-Language Adaptation with Reinforcement Learning**|Jiajie Li et.al.|[2603.20116](http://arxiv.org/abs/2603.20116)|null|
 |**2026-03-19**|**Generation Models Know Space: Unleashing Implicit 3D Priors for Scene Understanding**|Xianjin Wu et.al.|[2603.19235](http://arxiv.org/abs/2603.19235)|null|
 |**2026-03-19**|**Not All Features Are Created Equal: A Mechanistic Study of Vision-Language-Action Models**|Bryce Grant et.al.|[2603.19233](http://arxiv.org/abs/2603.19233)|null|
 |**2026-03-19**|**Cubic Discrete Diffusion: Discrete Visual Generation on High-Dimensional Representation Tokens**|Yuqing Wang et.al.|[2603.19232](http://arxiv.org/abs/2603.19232)|null|
@@ -99,6 +153,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-20**|**The $\mathbf{Y}$-Combinator for LLMs: Solving Long-Context Rot with $λ$ -Calculus**|Amartya Roy et.al.|[2603.20105](http://arxiv.org/abs/2603.20105)|null|
+|**2026-03-20**|**Sound State Encodings in Translational Separation Logic Verifiers (Extended Version)**|Hongyi Ling et.al.|[2603.20001](http://arxiv.org/abs/2603.20001)|null|
+|**2026-03-19**|**Exploring the Agentic Frontier of Verilog Code Generation**|Patrick Yubeaton et.al.|[2603.19347](http://arxiv.org/abs/2603.19347)|null|
 |**2026-03-19**|**Lightweight Model Predictive Control for Spacecraft Rendezvous Attitude Synchronization**|Peter Stadler et.al.|[2603.18921](http://arxiv.org/abs/2603.18921)|null|
 |**2026-03-19**|**BeamAgent: LLM-Aided MIMO Beamforming with Decoupled Intent Parsing and Alternating Optimization for Joint Site Selection and Precoding**|Xiucheng Wang et.al.|[2603.18855](http://arxiv.org/abs/2603.18855)|null|
 |**2026-03-19**|**Leveraging Large Language Models for Generalizing Peephole Optimizations**|Chunhao Liao et.al.|[2603.18477](http://arxiv.org/abs/2603.18477)|null|
@@ -114,6 +171,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-20**|**Deterministic Mode Proposals: An Efficient Alternative to Generative Sampling for Ambiguous Segmentation**|Sebastian Gerard et.al.|[2603.20191](http://arxiv.org/abs/2603.20191)|null|
+|**2026-03-20**|**Wildfire Spread Scenarios: Increasing Sample Diversity of Segmentation Diffusion Models with Training-Free Methods**|Sebastian Gerard et.al.|[2603.20188](http://arxiv.org/abs/2603.20188)|null|
+|**2026-03-20**|**Improving Image-to-Image Translation via a Rectified Flow Reformulation**|Satoshi Iizuka et.al.|[2603.20186](http://arxiv.org/abs/2603.20186)|null|
+|**2026-03-20**|**Adaptive Greedy Frame Selection for Long Video Understanding**|Yuning Huang et.al.|[2603.20180](http://arxiv.org/abs/2603.20180)|null|
+|**2026-03-20**|**Implementing the L4S Architecture in the ns-3 Simulator**|Maria Eduarda Veras et.al.|[2603.20166](http://arxiv.org/abs/2603.20166)|null|
+|**2026-03-20**|**Evaluating Evidence Grounding Under User Pressure in Instruction-Tuned Language Models**|Sai Koneru et.al.|[2603.20162](http://arxiv.org/abs/2603.20162)|null|
+|**2026-03-20**|**A New Multi-Constraint Potential Field Source Surface (PFSS) Extrapolation Model**|C. Antonio et.al.|[2603.20142](http://arxiv.org/abs/2603.20142)|null|
+|**2026-03-20**|**An Agentic Multi-Agent Architecture for Cybersecurity Risk Management**|Ravish Gupta et.al.|[2603.20131](http://arxiv.org/abs/2603.20131)|null|
+|**2026-03-20**|**Evolving Jailbreaks: Automated Multi-Objective Long-Tail Attacks on Large Language Models**|Wenjing Hong et.al.|[2603.20122](http://arxiv.org/abs/2603.20122)|null|
+|**2026-03-20**|**Chain-of-Adaptation: Surgical Vision-Language Adaptation with Reinforcement Learning**|Jiajie Li et.al.|[2603.20116](http://arxiv.org/abs/2603.20116)|null|
 |**2026-03-19**|**Generation Models Know Space: Unleashing Implicit 3D Priors for Scene Understanding**|Xianjin Wu et.al.|[2603.19235](http://arxiv.org/abs/2603.19235)|null|
 |**2026-03-19**|**SAMA: Factorized Semantic Anchoring and Motion Alignment for Instruction-Guided Video Editing**|Xinyao Zhang et.al.|[2603.19228](http://arxiv.org/abs/2603.19228)|null|
 |**2026-03-19**|**Do VLMs Need Vision Transformers? Evaluating State Space Models as Vision Encoders**|Shang-Jui Ray Kuo et.al.|[2603.19209](http://arxiv.org/abs/2603.19209)|null|
