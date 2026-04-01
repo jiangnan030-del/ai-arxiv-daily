@@ -2,13 +2,23 @@
 layout: default
 ---
 
-## Updated on 2026.03.31
+## Updated on 2026.04.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Large Language Model
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-31**|**Benchmarking PhD-Level Coding in 3D Geometric Computer Vision**|Wenyi Li et.al.|[2603.30038](http://arxiv.org/abs/2603.30038)|null|
+|**2026-03-31**|**Aligned, Orthogonal or In-conflict: When can we safely optimize Chain-of-Thought?**|Max Kaufmann et.al.|[2603.30036](http://arxiv.org/abs/2603.30036)|null|
+|**2026-03-31**|**Reward-Based Online LLM Routing via NeuralUCB**|Ming-Hua Tsai et.al.|[2603.30035](http://arxiv.org/abs/2603.30035)|null|
+|**2026-03-31**|**EnsembleSHAP: Faithful and Certifiably Robust Attribution for Random Subspace Method**|Yanting Wang et.al.|[2603.30034](http://arxiv.org/abs/2603.30034)|null|
+|**2026-03-31**|**Tucker Attention: A generalization of approximate attention mechanisms**|Timon Klein et.al.|[2603.30033](http://arxiv.org/abs/2603.30033)|null|
+|**2026-03-31**|**The Triadic Cognitive Architecture: Bounding Autonomous Action via Spatio-Temporal and Epistemic Friction**|Davide Di Gioia et.al.|[2603.30031](http://arxiv.org/abs/2603.30031)|null|
+|**2026-03-31**|**Can Commercial LLMs Be Parliamentary Political Companions? Comparing LLM Reasoning Against Romanian Legislative Expuneri de Motive**|Iulian Lucău et.al.|[2603.30028](http://arxiv.org/abs/2603.30028)|null|
+|**2026-03-31**|**ContextClaim: A Context-Driven Paradigm for Verifiable Claim Detection**|Yufeng Li et.al.|[2603.30025](http://arxiv.org/abs/2603.30025)|null|
+|**2026-03-31**|**Hybrid Framework for Robotic Manipulation: Integrating Reinforcement Learning and Large Language Models**|Md Saad et.al.|[2603.30022](http://arxiv.org/abs/2603.30022)|null|
+|**2026-03-31**|**Architecting Secure AI Agents: Perspectives on System-Level Defenses Against Indirect Prompt Injection Attacks**|Chong Xiang et.al.|[2603.30016](http://arxiv.org/abs/2603.30016)|null|
 |**2026-03-30**|**Safeguarding LLMs Against Misuse and AI-Driven Malware Using Steganographic Canaries**|Md Raz et.al.|[2603.28655](http://arxiv.org/abs/2603.28655)|null|
 |**2026-03-30**|**BACE: LLM-based Code Generation through Bayesian Anchored Co-Evolution of Code and Test Populations**|Kaushitha Silva et.al.|[2603.28653](http://arxiv.org/abs/2603.28653)|null|
 |**2026-03-30**|**Information-Theoretic Limits of Safety Verification for Self-Improving Systems**|Arsenios Scrivens et.al.|[2603.28650](http://arxiv.org/abs/2603.28650)|null|
@@ -84,6 +94,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-31**|**The Triadic Cognitive Architecture: Bounding Autonomous Action via Spatio-Temporal and Epistemic Friction**|Davide Di Gioia et.al.|[2603.30031](http://arxiv.org/abs/2603.30031)|null|
+|**2026-03-31**|**Architecting Secure AI Agents: Perspectives on System-Level Defenses Against Indirect Prompt Injection Attacks**|Chong Xiang et.al.|[2603.30016](http://arxiv.org/abs/2603.30016)|null|
+|**2026-03-31**|**Phyelds: A Pythonic Framework for Aggregate Computing**|Gianluca Aguzzi et.al.|[2603.29999](http://arxiv.org/abs/2603.29999)|null|
+|**2026-03-31**|**Extending MONA in Camera Dropbox: Reproduction, Learned Approval, and Design Implications for Reward-Hacking Mitigation**|Nathan Heath et.al.|[2603.29993](http://arxiv.org/abs/2603.29993)|null|
+|**2026-03-31**|**SurgNavAR: An Augmented Reality Surgical Navigation Framework for Optical See-Through Head Mounted Displays**|Abdullah Thabit et.al.|[2603.29990](http://arxiv.org/abs/2603.29990)|null|
+|**2026-03-31**|**BayesInsights: Modelling Software Delivery and Developer Experience with Bayesian Networks at Bloomberg**|Serkan Kirbas et.al.|[2603.29929](http://arxiv.org/abs/2603.29929)|null|
+|**2026-03-31**|**SkillReducer: Optimizing LLM Agent Skills for Token Efficiency**|Yudong Gao et.al.|[2603.29919](http://arxiv.org/abs/2603.29919)|null|
+|**2026-03-31**|**ATP-Bench: Towards Agentic Tool Planning for MLLM Interleaved Generation**|Yinuo Liu et.al.|[2603.29902](http://arxiv.org/abs/2603.29902)|null|
+|**2026-03-31**|**SNEAK: Evaluating Strategic Communication and Information Leakage in Large Language Models**|Adar Avsian et.al.|[2603.29846](http://arxiv.org/abs/2603.29846)|null|
+|**2026-03-31**|**Friends, Foes, and First Authors: A Game Theory Model of How Power Plays Rewrite Academic Co-Authorship Networks**|Amit Bengal et.al.|[2603.29834](http://arxiv.org/abs/2603.29834)|null|
 |**2026-03-30**|**Superintelligence and Law**|Noam Kolt et.al.|[2603.28669](http://arxiv.org/abs/2603.28669)|null|
 |**2026-03-30**|**AMIGO: Agentic Multi-Image Grounding Oracle Benchmark**|Min Wang et.al.|[2603.28662](http://arxiv.org/abs/2603.28662)|null|
 |**2026-03-30**|**BACE: LLM-based Code Generation through Bayesian Anchored Co-Evolution of Code and Test Populations**|Kaushitha Silva et.al.|[2603.28653](http://arxiv.org/abs/2603.28653)|null|
@@ -159,6 +179,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-31**|**Kwame 2.0: Human-in-the-Loop Generative AI Teaching Assistant for Large Scale Online Coding Education in Africa**|George Boateng et.al.|[2603.29159](http://arxiv.org/abs/2603.29159)|null|
+|**2026-03-30**|**PAR $^2$ -RAG: Planned Active Retrieval and Reasoning for Multi-Hop Question Answering**|Xingyu Li et.al.|[2603.29085](http://arxiv.org/abs/2603.29085)|null|
+|**2026-03-30**|**Beyond Localization: Recoverable Headroom and Residual Frontier in Repository-Level RAG-APR**|Pengtao Zhao et.al.|[2603.29067](http://arxiv.org/abs/2603.29067)|null|
+|**2026-03-30**|**Understand and Accelerate Memory Processing Pipeline for Disaggregated LLM Inference**|Zifan He et.al.|[2603.29002](http://arxiv.org/abs/2603.29002)|null|
 |**2026-03-30**|**Courtroom-Style Multi-Agent Debate with Progressive RAG and Role-Switching for Controversial Claim Verification**|Masnun Nuha Chowdhury et.al.|[2603.28488](http://arxiv.org/abs/2603.28488)|null|
 |**2026-03-30**|**CiQi-Agent: Aligning Vision, Tools and Aesthetics in Multimodal Agent for Cultural Reasoning on Chinese Porcelains**|Wenhan Wang et.al.|[2603.28474](http://arxiv.org/abs/2603.28474)|null|
 |**2026-03-30**|**Entropic Claim Resolution: Uncertainty-Driven Evidence Selection for RAG**|Davide Di Gioia et.al.|[2603.28444](http://arxiv.org/abs/2603.28444)|null|
@@ -228,6 +252,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-31**|**Video Models Reason Early: Exploiting Plan Commitment for Maze Solving**|Kaleb Newman et.al.|[2603.30043](http://arxiv.org/abs/2603.30043)|null|
+|**2026-03-31**|**Aligned, Orthogonal or In-conflict: When can we safely optimize Chain-of-Thought?**|Max Kaufmann et.al.|[2603.30036](http://arxiv.org/abs/2603.30036)|null|
+|**2026-03-31**|**The Triadic Cognitive Architecture: Bounding Autonomous Action via Spatio-Temporal and Epistemic Friction**|Davide Di Gioia et.al.|[2603.30031](http://arxiv.org/abs/2603.30031)|null|
+|**2026-03-31**|**Can Commercial LLMs Be Parliamentary Political Companions? Comparing LLM Reasoning Against Romanian Legislative Expuneri de Motive**|Iulian Lucău et.al.|[2603.30028](http://arxiv.org/abs/2603.30028)|null|
+|**2026-03-31**|**Hybrid Framework for Robotic Manipulation: Integrating Reinforcement Learning and Large Language Models**|Md Saad et.al.|[2603.30022](http://arxiv.org/abs/2603.30022)|null|
+|**2026-03-31**|**Enhancing Structural Mapping with LLM-derived Abstractions for Analogical Reasoning in Narratives**|Mohammadhossein Khojasteh et.al.|[2603.29997](http://arxiv.org/abs/2603.29997)|null|
+|**2026-03-31**|**Trimodal Deep Learning for Glioma Survival Prediction: A Feasibility Study Integrating Histopathology, Gene Expression, and MRI**|Iain Swift et.al.|[2603.29968](http://arxiv.org/abs/2603.29968)|null|
+|**2026-03-31**|**SurgTEMP: Temporal-Aware Surgical Video Question Answering with Text-guided Visual Memory for Laparoscopic Cholecystectomy**|Shi Li et.al.|[2603.29962](http://arxiv.org/abs/2603.29962)|null|
+|**2026-03-31**|**Think Anywhere in Code Generation**|Xue Jiang et.al.|[2603.29957](http://arxiv.org/abs/2603.29957)|null|
+|**2026-03-31**|**EC-Bench: Enumeration and Counting Benchmark for Ultra-Long Videos**|Fumihiko Tsuchiya et.al.|[2603.29943](http://arxiv.org/abs/2603.29943)|null|
 |**2026-03-30**|**BACE: LLM-based Code Generation through Bayesian Anchored Co-Evolution of Code and Test Populations**|Kaushitha Silva et.al.|[2603.28653](http://arxiv.org/abs/2603.28653)|null|
 |**2026-03-30**|**The $B^{(*)}\bar{K}^{(*)}$ -coupled-channel system in the hidden-gauge approach**|J. Sánchez-Illana et.al.|[2603.28649](http://arxiv.org/abs/2603.28649)|null|
 |**2026-03-30**|**Seeing with You: Perception-Reasoning Coevolution for Multimodal Reasoning**|Ziqi Miao et.al.|[2603.28618](http://arxiv.org/abs/2603.28618)|null|
@@ -303,6 +337,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-31**|**Aligned, Orthogonal or In-conflict: When can we safely optimize Chain-of-Thought?**|Max Kaufmann et.al.|[2603.30036](http://arxiv.org/abs/2603.30036)|null|
+|**2026-03-31**|**EnsembleSHAP: Faithful and Certifiably Robust Attribution for Random Subspace Method**|Yanting Wang et.al.|[2603.30034](http://arxiv.org/abs/2603.30034)|null|
+|**2026-03-31**|**Geometry, Dynamics and Topology of Thickness Landscape: A Morse-Theoretic Analysis of the Return-Map in the Class $\mathcal{O}_{C}$**|Mohammed Barkatou et.al.|[2603.30010](http://arxiv.org/abs/2603.30010)|null|
+|**2026-03-31**|**Enhancing Structural Mapping with LLM-derived Abstractions for Analogical Reasoning in Narratives**|Mohammadhossein Khojasteh et.al.|[2603.29997](http://arxiv.org/abs/2603.29997)|null|
+|**2026-03-31**|**SurgNavAR: An Augmented Reality Surgical Navigation Framework for Optical See-Through Head Mounted Displays**|Abdullah Thabit et.al.|[2603.29990](http://arxiv.org/abs/2603.29990)|null|
+|**2026-03-31**|**Enhanced nanocomposite susceptibility by field-alignment of superparamagnetic particles**|Mathias Zambach et.al.|[2603.29983](http://arxiv.org/abs/2603.29983)|null|
+|**2026-03-31**|**Aligning Validation with Deployment: Target-Weighted Cross-Validation for Spatial Prediction**|Alexander Brenning et.al.|[2603.29981](http://arxiv.org/abs/2603.29981)|null|
+|**2026-03-31**|**NeuroBRIDGE: Behavior-Conditioned Koopman Dynamics with Riemannian Alignment for Early Substance Use Initiation Prediction from Longitudinal Functional Connectome**|Badhan Mazumder et.al.|[2603.29960](http://arxiv.org/abs/2603.29960)|null|
+|**2026-03-31**|**Structured Intent as a Protocol-Like Communication Layer: Cross-Model Robustness, Framework Comparison, and the Weak-Model Compensation Effect**|Peng Gang et.al.|[2603.29953](http://arxiv.org/abs/2603.29953)|null|
+|**2026-03-31**|**Physiological and Semantic Patterns in Medical Teams Using an Intelligent Tutoring System**|Xiaoshan Huang et.al.|[2603.29950](http://arxiv.org/abs/2603.29950)|null|
 |**2026-03-30**|**Stochasticity and probabilistic trajectory scoring are essential for data-driven closures of chaotic systems**|Martin Thomas Brolly et.al.|[2603.28671](http://arxiv.org/abs/2603.28671)|null|
 |**2026-03-30**|**Superintelligence and Law**|Noam Kolt et.al.|[2603.28669](http://arxiv.org/abs/2603.28669)|null|
 |**2026-03-30**|**Constructing Composite Features for Interpretable Music-Tagging**|Chenhao Xue et.al.|[2603.28644](http://arxiv.org/abs/2603.28644)|null|
@@ -378,6 +422,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-31**|**Quantifying Cross-Modal Interactions in Multimodal Glioma Survival Prediction via InterSHAP: Evidence for Additive Signal Integration**|Iain Swift et.al.|[2603.29977](http://arxiv.org/abs/2603.29977)|null|
+|**2026-03-31**|**Trimodal Deep Learning for Glioma Survival Prediction: A Feasibility Study Integrating Histopathology, Gene Expression, and MRI**|Iain Swift et.al.|[2603.29968](http://arxiv.org/abs/2603.29968)|null|
+|**2026-03-31**|**Learning Structural-Functional Brain Representations through Multi-Scale Adaptive Graph Attention for Cognitive Insight**|Badhan Mazumder et.al.|[2603.29967](http://arxiv.org/abs/2603.29967)|null|
+|**2026-03-31**|**Scaling Video Pretraining for Surgical Foundation Models**|Sicheng Lu et.al.|[2603.29966](http://arxiv.org/abs/2603.29966)|null|
+|**2026-03-31**|**SurgTEMP: Temporal-Aware Surgical Video Question Answering with Text-guided Visual Memory for Laparoscopic Cholecystectomy**|Shi Li et.al.|[2603.29962](http://arxiv.org/abs/2603.29962)|null|
+|**2026-03-31**|**EC-Bench: Enumeration and Counting Benchmark for Ultra-Long Videos**|Fumihiko Tsuchiya et.al.|[2603.29943](http://arxiv.org/abs/2603.29943)|null|
+|**2026-03-31**|**Multimodal Higher-Order Brain Networks: A Topological Signal Processing Perspective**|Breno C. Bispo et.al.|[2603.29903](http://arxiv.org/abs/2603.29903)|null|
+|**2026-03-31**|**ATP-Bench: Towards Agentic Tool Planning for MLLM Interleaved Generation**|Yinuo Liu et.al.|[2603.29902](http://arxiv.org/abs/2603.29902)|null|
+|**2026-03-31**|**Less Is More? Selective Visual Attention to High-Importance Regions for Multimodal Radiology Summarization**|Mst. Fahmida Sultana Naznin et.al.|[2603.29901](http://arxiv.org/abs/2603.29901)|null|
+|**2026-03-31**|**HLC: A High-Quality Lightweight Mezzanine Codec Featuring High-Throughput Palette**|Chenlong He et.al.|[2603.29864](http://arxiv.org/abs/2603.29864)|null|
 |**2026-03-30**|**AMIGO: Agentic Multi-Image Grounding Oracle Benchmark**|Min Wang et.al.|[2603.28662](http://arxiv.org/abs/2603.28662)|null|
 |**2026-03-30**|**Seeing with You: Perception-Reasoning Coevolution for Multimodal Reasoning**|Ziqi Miao et.al.|[2603.28618](http://arxiv.org/abs/2603.28618)|null|
 |**2026-03-30**|**TGIF2: Extended Text-Guided Inpainting Forgery Dataset & Benchmark**|Hannes Mareen et.al.|[2603.28613](http://arxiv.org/abs/2603.28613)|null|
@@ -453,6 +507,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-31**|**Think Anywhere in Code Generation**|Xue Jiang et.al.|[2603.29957](http://arxiv.org/abs/2603.29957)|null|
+|**2026-03-31**|**Compiling Code LLMs into Lightweight Executables**|Jieke Shi et.al.|[2603.29813](http://arxiv.org/abs/2603.29813)|null|
+|**2026-03-31**|**An Empirical Study of Multi-Agent Collaboration for Automated Research**|Yang Shen et.al.|[2603.29632](http://arxiv.org/abs/2603.29632)|null|
+|**2026-03-31**|**Self-Improving Code Generation via Semantic Entropy and Behavioral Consensus**|Huan Zhang et.al.|[2603.29292](http://arxiv.org/abs/2603.29292)|null|
+|**2026-03-31**|**APEX-EM: Non-Parametric Online Learning for Autonomous Agents via Structured Procedural-Episodic Experience Replay**|Pratyay Banerjee et.al.|[2603.29093](http://arxiv.org/abs/2603.29093)|null|
+|**2026-03-31**|**WybeCoder: Verified Imperative Code Generation**|Fabian Gloeckle et.al.|[2603.29088](http://arxiv.org/abs/2603.29088)|null|
+|**2026-03-30**|**Beyond Localization: Recoverable Headroom and Residual Frontier in Repository-Level RAG-APR**|Pengtao Zhao et.al.|[2603.29067](http://arxiv.org/abs/2603.29067)|null|
+|**2026-03-30**|**Mimosa Framework: Toward Evolving Multi-Agent Systems for Scientific Research**|Martin Legrand et.al.|[2603.28986](http://arxiv.org/abs/2603.28986)|null|
 |**2026-03-30**|**Safeguarding LLMs Against Misuse and AI-Driven Malware Using Steganographic Canaries**|Md Raz et.al.|[2603.28655](http://arxiv.org/abs/2603.28655)|null|
 |**2026-03-30**|**BACE: LLM-based Code Generation through Bayesian Anchored Co-Evolution of Code and Test Populations**|Kaushitha Silva et.al.|[2603.28653](http://arxiv.org/abs/2603.28653)|null|
 |**2026-03-29**|**Q-Bridge: Code Translation for Quantum Machine Learning via LLMs**|Runjia Zeng et.al.|[2603.27836](http://arxiv.org/abs/2603.27836)|null|
@@ -509,6 +571,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-31**|**Reward-Based Online LLM Routing via NeuralUCB**|Ming-Hua Tsai et.al.|[2603.30035](http://arxiv.org/abs/2603.30035)|null|
+|**2026-03-31**|**Tucker Attention: A generalization of approximate attention mechanisms**|Timon Klein et.al.|[2603.30033](http://arxiv.org/abs/2603.30033)|null|
+|**2026-03-31**|**Covertly improving intelligibility with data-driven adaptations of speech timing**|Paige Tuttösí et.al.|[2603.30032](http://arxiv.org/abs/2603.30032)|null|
+|**2026-03-31**|**Geometric Properties of Level Sets for Domains under Geometric Normal Property**|Mohammed Barkatou et.al.|[2603.30026](http://arxiv.org/abs/2603.30026)|null|
+|**2026-03-31**|**ContextClaim: A Context-Driven Paradigm for Verifiable Claim Detection**|Yufeng Li et.al.|[2603.30025](http://arxiv.org/abs/2603.30025)|null|
+|**2026-03-31**|**Hybrid Framework for Robotic Manipulation: Integrating Reinforcement Learning and Large Language Models**|Md Saad et.al.|[2603.30022](http://arxiv.org/abs/2603.30022)|null|
+|**2026-03-31**|**Model-Free Coordinated Optimization of IBR Controllers for Enhanced Grid-Level Transient Dynamic Performance**|Haowen Xu et.al.|[2603.29995](http://arxiv.org/abs/2603.29995)|null|
+|**2026-03-31**|**SurgNavAR: An Augmented Reality Surgical Navigation Framework for Optical See-Through Head Mounted Displays**|Abdullah Thabit et.al.|[2603.29990](http://arxiv.org/abs/2603.29990)|null|
+|**2026-03-31**|**Quantifying Cross-Modal Interactions in Multimodal Glioma Survival Prediction via InterSHAP: Evidence for Additive Signal Integration**|Iain Swift et.al.|[2603.29977](http://arxiv.org/abs/2603.29977)|null|
+|**2026-03-31**|**A Precision Emulation Approach to the GPU Acceleration of Ab Initio Electronic Structure Calculations**|Hang Liu et.al.|[2603.29975](http://arxiv.org/abs/2603.29975)|null|
 |**2026-03-30**|**Serialized Red-Green-Gray: Quicker Heuristic Validation of Edges in Dynamic Roadmap Graphs**|Yulie Arad et.al.|[2603.28674](http://arxiv.org/abs/2603.28674)|null|
 |**2026-03-30**|**Information-Theoretic Limits of Safety Verification for Self-Improving Systems**|Arsenios Scrivens et.al.|[2603.28650](http://arxiv.org/abs/2603.28650)|null|
 |**2026-03-30**|**Hunting for quantum advantage in electronic structure calculations is a highly non-trivial task**|Örs Legeza et.al.|[2603.28648](http://arxiv.org/abs/2603.28648)|null|
