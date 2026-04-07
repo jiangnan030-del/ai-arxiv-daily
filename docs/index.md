@@ -2,13 +2,23 @@
 layout: default
 ---
 
-## Updated on 2026.04.06
+## Updated on 2026.04.07
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Large Language Model
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-06**|**Beyond the Final Actor: Modeling the Dual Roles of Creator and Editor for Fine-Grained LLM-Generated Text Detection**|Yang Li et.al.|[2604.04932](http://arxiv.org/abs/2604.04932)|null|
+|**2026-04-06**|**Rethinking Model Efficiency: Multi-Agent Inference with Large Models**|Sixun Dong et.al.|[2604.04929](http://arxiv.org/abs/2604.04929)|null|
+|**2026-04-06**|**TriAttention: Efficient Long Reasoning with Trigonometric KV Compression**|Weian Mao et.al.|[2604.04921](http://arxiv.org/abs/2604.04921)|null|
+|**2026-04-06**|**Comparing Human Oversight Strategies for Computer-Use Agents**|Chaoran Chen et.al.|[2604.04918](http://arxiv.org/abs/2604.04918)|null|
+|**2026-04-06**|**Exploring Expert Perspectives on Wearable-Triggered LLM Conversational Support for Daily Stress Management**|Poorvesh Dongre et.al.|[2604.04915](http://arxiv.org/abs/2604.04915)|null|
+|**2026-04-06**|**ClickAIXR: On-Device Multimodal Vision-Language Interaction with Real-World Objects in Extended Reality**|Dawar Khan et.al.|[2604.04905](http://arxiv.org/abs/2604.04905)|null|
+|**2026-04-06**|**QED-Nano: Teaching a Tiny Model to Prove Hard Theorems**|LM-Provers et.al.|[2604.04898](http://arxiv.org/abs/2604.04898)|null|
+|**2026-04-06**|**Rethinking Exploration in RLVR: From Entropy Regularization to Refinement via Bidirectional Entropy Modulation**|Hengrui Gu et.al.|[2604.04894](http://arxiv.org/abs/2604.04894)|null|
+|**2026-04-06**|**Synthetic Sandbox for Training Machine Learning Engineering Agents**|Yuhang Zhou et.al.|[2604.04872](http://arxiv.org/abs/2604.04872)|null|
+|**2026-04-06**|**Optimizing LLM Prompt Engineering with DSPy Based Declarative Learning**|Shiek Ruksana et.al.|[2604.04869](http://arxiv.org/abs/2604.04869)|null|
 |**2026-04-03**|**CoME-VL: Scaling Complementary Multi-Encoder Vision-Language Learning**|Ankan Deria et.al.|[2604.03231](http://arxiv.org/abs/2604.03231)|null|
 |**2026-04-03**|**BAS: A Decision-Theoretic Approach to Evaluating Large Language Model Confidence**|Sean Wu et.al.|[2604.03216](http://arxiv.org/abs/2604.03216)|null|
 |**2026-04-03**|**Prosocial Persuasion at Scale? Large Language Models Outperform Humans in Donation Appeals Across Levels of Personalization**|John Caffier et.al.|[2604.03202](http://arxiv.org/abs/2604.03202)|null|
@@ -124,6 +134,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-06**|**Rethinking Model Efficiency: Multi-Agent Inference with Large Models**|Sixun Dong et.al.|[2604.04929](http://arxiv.org/abs/2604.04929)|null|
+|**2026-04-06**|**FileGram: Grounding Agent Personalization in File-System Behavioral Traces**|Shuai Liu et.al.|[2604.04901](http://arxiv.org/abs/2604.04901)|null|
+|**2026-04-06**|**Agentic Federated Learning: The Future of Distributed Training Orchestration**|Rafael O. Jarczewski et.al.|[2604.04895](http://arxiv.org/abs/2604.04895)|null|
+|**2026-04-06**|**DIRECT: Video Mashup Creation via Hierarchical Multi-Agent Planning and Intent-Guided Editing**|Ke Li et.al.|[2604.04875](http://arxiv.org/abs/2604.04875)|null|
+|**2026-04-06**|**Synthetic Sandbox for Training Machine Learning Engineering Agents**|Yuhang Zhou et.al.|[2604.04872](http://arxiv.org/abs/2604.04872)|null|
+|**2026-04-06**|**StatsClaw: An AI-Collaborative Workflow for Statistical Software Development**|Tianzhu Qin et.al.|[2604.04871](http://arxiv.org/abs/2604.04871)|null|
+|**2026-04-06**|**MemMachine: A Ground-Truth-Preserving Memory System for Personalized AI Agents**|Shu Wang et.al.|[2604.04853](http://arxiv.org/abs/2604.04853)|null|
+|**2026-04-06**|**Full-Duplex-Bench-v3: Benchmarking Tool Use for Full-Duplex Voice Agents Under Real-World Disfluency**|Guan-Ting Lin et.al.|[2604.04847](http://arxiv.org/abs/2604.04847)|null|
+|**2026-04-06**|**ANX: Protocol-First Design for AI Agent Interaction with a Supporting 3EX Decoupled Architecture**|Xu Mingze et.al.|[2604.04820](http://arxiv.org/abs/2604.04820)|null|
+|**2026-04-06**|**SkillX: Automatically Constructing Skill Knowledge Bases for Agents**|Chenxi Wang et.al.|[2604.04804](http://arxiv.org/abs/2604.04804)|null|
 |**2026-04-03**|**Detecting and Correcting Reference Hallucinations in Commercial LLMs and Deep Research Agents**|Delip Rao et.al.|[2604.03173](http://arxiv.org/abs/2604.03173)|null|
 |**2026-04-03**|**CAMEO: A Conditional and Quality-Aware Multi-Agent Image Editing Orchestrator**|Yuhan Pu et.al.|[2604.03156](http://arxiv.org/abs/2604.03156)|null|
 |**2026-04-03**|**TokenDance: Scaling Multi-Agent LLM Serving via Collective KV Cache Sharing**|Zhuohang Bian et.al.|[2604.03143](http://arxiv.org/abs/2604.03143)|null|
@@ -239,6 +259,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-06**|**Optimizing LLM Prompt Engineering with DSPy Based Declarative Learning**|Shiek Ruksana et.al.|[2604.04869](http://arxiv.org/abs/2604.04869)|null|
+|**2026-04-06**|**MemMachine: A Ground-Truth-Preserving Memory System for Personalized AI Agents**|Shu Wang et.al.|[2604.04853](http://arxiv.org/abs/2604.04853)|null|
+|**2026-04-06**|**AI Trust OS -- A Continuous Governance Framework for Autonomous AI Observability and Zero-Trust Compliance in Enterprise Environments**|Eranga Bandara et.al.|[2604.04749](http://arxiv.org/abs/2604.04749)|null|
+|**2026-04-06**|**Beyond Hard Negatives: The Importance of Score Distribution in Knowledge Distillation for Dense Retrieval**|Youngjoon Jang et.al.|[2604.04734](http://arxiv.org/abs/2604.04734)|null|
+|**2026-04-06**|**An AI Teaching Assistant for Motion Picture Engineering**|Deirdre O'Regan et.al.|[2604.04670](http://arxiv.org/abs/2604.04670)|null|
+|**2026-04-06**|**Ruling Out to Rule In: Contrastive Hypothesis Retrieval for Medical Question Answering**|Byeolhee Kim et.al.|[2604.04593](http://arxiv.org/abs/2604.04593)|null|
+|**2026-04-06**|**PassiveQA: A Three-Action Framework for Epistemically Calibrated Question Answering via Supervised Finetuning**|Madhav S Baidya et.al.|[2604.04565](http://arxiv.org/abs/2604.04565)|null|
+|**2026-04-06**|**Graph-to-Frame RAG: Visual-Space Knowledge Fusion for Training-Free and Auditable Video Reasoning**|Songyuan Yang et.al.|[2604.04372](http://arxiv.org/abs/2604.04372)|null|
+|**2026-04-06**|**GROUNDEDKG-RAG: Grounded Knowledge Graph Index for Long-document Question Answering**|Tianyi Zhang et.al.|[2604.04359](http://arxiv.org/abs/2604.04359)|null|
+|**2026-04-05**|**Compliance-by-Construction Argument Graphs: Using Generative AI to Produce Evidence-Linked Formal Arguments for Certification-Grade Accountability**|Mahyar T. Moghaddam et.al.|[2604.04103](http://arxiv.org/abs/2604.04103)|null|
 |**2026-04-03**|**Beyond the Parameters: A Technical Survey of Contextual Enrichment in Large Language Models: From In-Context Prompting to Causal Retrieval-Augmented Generation**|Prakhar Bansal et.al.|[2604.03174](http://arxiv.org/abs/2604.03174)|null|
 |**2026-04-03**|**Domain-Adapted Retrieval for In-Context Annotation of Pedagogical Dialogue Acts**|Jinsook Lee et.al.|[2604.03127](http://arxiv.org/abs/2604.03127)|null|
 |**2026-04-03**|**Querying Structured Data Through Natural Language Using Language Models**|Hontan Valentin-Micu et.al.|[2604.03057](http://arxiv.org/abs/2604.03057)|null|
@@ -341,6 +371,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-06**|**Early Stopping for Large Reasoning Models via Confidence Dynamics**|Parsa Hosseini et.al.|[2604.04930](http://arxiv.org/abs/2604.04930)|null|
+|**2026-04-06**|**Rethinking Model Efficiency: Multi-Agent Inference with Large Models**|Sixun Dong et.al.|[2604.04929](http://arxiv.org/abs/2604.04929)|null|
+|**2026-04-06**|**TriAttention: Efficient Long Reasoning with Trigonometric KV Compression**|Weian Mao et.al.|[2604.04921](http://arxiv.org/abs/2604.04921)|null|
+|**2026-04-06**|**Vero: An Open RL Recipe for General Visual Reasoning**|Gabriel Sarch et.al.|[2604.04917](http://arxiv.org/abs/2604.04917)|null|
+|**2026-04-06**|**Analyzing Symbolic Properties for DRL Agents in Systems and Networking**|Mohammad Zangooei et.al.|[2604.04914](http://arxiv.org/abs/2604.04914)|null|
+|**2026-04-06**|**HI-MoE: Hierarchical Instance-Conditioned Mixture-of-Experts for Object Detection**|Vadim Vashkelis et.al.|[2604.04908](http://arxiv.org/abs/2604.04908)|null|
+|**2026-04-06**|**Are Latent Reasoning Models Easily Interpretable?**|Connor Dilgren et.al.|[2604.04902](http://arxiv.org/abs/2604.04902)|null|
+|**2026-04-06**|**QED-Nano: Teaching a Tiny Model to Prove Hard Theorems**|LM-Provers et.al.|[2604.04898](http://arxiv.org/abs/2604.04898)|null|
+|**2026-04-06**|**Agentic Federated Learning: The Future of Distributed Training Orchestration**|Rafael O. Jarczewski et.al.|[2604.04895](http://arxiv.org/abs/2604.04895)|null|
+|**2026-04-06**|**Rethinking Exploration in RLVR: From Entropy Regularization to Refinement via Bidirectional Entropy Modulation**|Hengrui Gu et.al.|[2604.04894](http://arxiv.org/abs/2604.04894)|null|
 |**2026-04-03**|**Hierarchical Planning with Latent World Models**|Wancong Zhang et.al.|[2604.03208](http://arxiv.org/abs/2604.03208)|null|
 |**2026-04-03**|**CO and N2 Produced from H2O, CO2, and NH3 Cometary Ice Analogs**|Alexandra McKinnon et.al.|[2604.03207](http://arxiv.org/abs/2604.03207)|null|
 |**2026-04-03**|**Reflective Context Learning: Studying the Optimization Primitives of Context Space**|Nikita Vassilyev et.al.|[2604.03189](http://arxiv.org/abs/2604.03189)|null|
@@ -456,6 +496,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-06**|**Beyond the Final Actor: Modeling the Dual Roles of Creator and Editor for Fine-Grained LLM-Generated Text Detection**|Yang Li et.al.|[2604.04932](http://arxiv.org/abs/2604.04932)|null|
+|**2026-04-06**|**Your Pre-trained Diffusion Model Secretly Knows Restoration**|Sudarshan Rajagopalan et.al.|[2604.04924](http://arxiv.org/abs/2604.04924)|null|
+|**2026-04-06**|**A Frame is Worth One Token: Efficient Generative World Modeling with Delta Tokens**|Tommie Kerssies et.al.|[2604.04913](http://arxiv.org/abs/2604.04913)|null|
+|**2026-04-06**|**HI-MoE: Hierarchical Instance-Conditioned Mixture-of-Experts for Object Detection**|Vadim Vashkelis et.al.|[2604.04908](http://arxiv.org/abs/2604.04908)|null|
+|**2026-04-06**|**HorizonWeaver: Generalizable Multi-Level Semantic Editing for Driving Scenes**|Mauricio Soroco et.al.|[2604.04887](http://arxiv.org/abs/2604.04887)|null|
+|**2026-04-06**|**DIRECT: Video Mashup Creation via Hierarchical Multi-Agent Planning and Intent-Guided Editing**|Ke Li et.al.|[2604.04875](http://arxiv.org/abs/2604.04875)|null|
+|**2026-04-06**|**Free-Range Gaussians: Non-Grid-Aligned Generative 3D Gaussian Reconstruction**|Ahan Shabanov et.al.|[2604.04874](http://arxiv.org/abs/2604.04874)|null|
+|**2026-04-06**|**Tracing the origin of tropical North Atlantic Sargassum blooms to West Africa**|Francisco J. Beron-Vera et.al.|[2604.04866](http://arxiv.org/abs/2604.04866)|null|
+|**2026-04-06**|**Beyond the Global Scores: Fine-Grained Token Grounding as a Robust Detector of LVLM Hallucinations**|Tuan Dung Nguyen et.al.|[2604.04863](http://arxiv.org/abs/2604.04863)|null|
+|**2026-04-06**|**InfBaGel: Human-Object-Scene Interaction Generation with Dynamic Perception and Iterative Refinement**|Yude Zou et.al.|[2604.04843](http://arxiv.org/abs/2604.04843)|null|
 |**2026-04-03**|**CoME-VL: Scaling Complementary Multi-Encoder Vision-Language Learning**|Ankan Deria et.al.|[2604.03231](http://arxiv.org/abs/2604.03231)|null|
 |**2026-04-03**|**Unmixing the Crowd: Learning Mixture-to-Set Speaker Embeddings for Enrollment-Free Target Speech Extraction**|FNU Sidharth et.al.|[2604.03219](http://arxiv.org/abs/2604.03219)|null|
 |**2026-04-03**|**BAS: A Decision-Theoretic Approach to Evaluating Large Language Model Confidence**|Sean Wu et.al.|[2604.03216](http://arxiv.org/abs/2604.03216)|null|
@@ -571,6 +621,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-06**|**Rethinking Model Efficiency: Multi-Agent Inference with Large Models**|Sixun Dong et.al.|[2604.04929](http://arxiv.org/abs/2604.04929)|null|
+|**2026-04-06**|**Your Pre-trained Diffusion Model Secretly Knows Restoration**|Sudarshan Rajagopalan et.al.|[2604.04924](http://arxiv.org/abs/2604.04924)|null|
+|**2026-04-06**|**Vero: An Open RL Recipe for General Visual Reasoning**|Gabriel Sarch et.al.|[2604.04917](http://arxiv.org/abs/2604.04917)|null|
+|**2026-04-06**|**ClickAIXR: On-Device Multimodal Vision-Language Interaction with Real-World Objects in Extended Reality**|Dawar Khan et.al.|[2604.04905](http://arxiv.org/abs/2604.04905)|null|
+|**2026-04-06**|**Maximally localized modes of a multimode fiber**|Nicolas Barré et.al.|[2604.04903](http://arxiv.org/abs/2604.04903)|null|
+|**2026-04-06**|**FileGram: Grounding Agent Personalization in File-System Behavioral Traces**|Shuai Liu et.al.|[2604.04901](http://arxiv.org/abs/2604.04901)|null|
+|**2026-04-06**|**DIRECT: Video Mashup Creation via Hierarchical Multi-Agent Planning and Intent-Guided Editing**|Ke Li et.al.|[2604.04875](http://arxiv.org/abs/2604.04875)|null|
+|**2026-04-06**|**Beyond the Global Scores: Fine-Grained Token Grounding as a Robust Detector of LVLM Hallucinations**|Tuan Dung Nguyen et.al.|[2604.04863](http://arxiv.org/abs/2604.04863)|null|
+|**2026-04-06**|**The Blind Spot of Adaptation: Quantifying and Mitigating Forgetting in Fine-tuned Driving Models**|Runhao Mao et.al.|[2604.04857](http://arxiv.org/abs/2604.04857)|null|
+|**2026-04-06**|**Less Detail, Better Answers: Degradation-Driven Prompting for VQA**|Haoxuan Han et.al.|[2604.04838](http://arxiv.org/abs/2604.04838)|null|
 |**2026-04-03**|**CoME-VL: Scaling Complementary Multi-Encoder Vision-Language Learning**|Ankan Deria et.al.|[2604.03231](http://arxiv.org/abs/2604.03231)|null|
 |**2026-04-03**|**VOSR: A Vision-Only Generative Model for Image Super-Resolution**|Rongyuan Wu et.al.|[2604.03225](http://arxiv.org/abs/2604.03225)|null|
 |**2026-04-03**|**The Compression Gap: Why Discrete Tokenization Limits Vision-Language-Action Model Scaling**|Takuya Shiba et.al.|[2604.03191](http://arxiv.org/abs/2604.03191)|null|
@@ -686,6 +746,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-06**|**StatsClaw: An AI-Collaborative Workflow for Statistical Software Development**|Tianzhu Qin et.al.|[2604.04871](http://arxiv.org/abs/2604.04871)|null|
+|**2026-04-06**|**A Validated Taxonomy on Software Energy Smells**|Mohammadjavad Mehditabar et.al.|[2604.04809](http://arxiv.org/abs/2604.04809)|null|
+|**2026-04-05**|**Agentic Code Optimization via Compiler-LLM Cooperation**|Benjamin Mikek et.al.|[2604.04238](http://arxiv.org/abs/2604.04238)|null|
+|**2026-04-05**|**Graphic-Design-Bench: A Comprehensive Benchmark for Evaluating AI on Graphic Design Tasks**|Adrienne Deganutti et.al.|[2604.04192](http://arxiv.org/abs/2604.04192)|null|
+|**2026-04-05**|**From Paper to Program: A Multi-Stage LLM-Assisted Workflow for Accelerating Quantum Many-Body Algorithm Development**|Yi Zhou et.al.|[2604.04089](http://arxiv.org/abs/2604.04089)|null|
+|**2026-04-05**|**Benchmarking and Evaluating VLMs for Software Architecture Diagram Understanding**|Shuyin Ouyang et.al.|[2604.04009](http://arxiv.org/abs/2604.04009)|null|
+|**2026-04-05**|**COBOL-Coder: Domain-Adapted Large Language Models for COBOL Code Generation and Translation**|Anh T. V. Dau et.al.|[2604.03986](http://arxiv.org/abs/2604.03986)|null|
+|**2026-04-05**|**COBOLAssist: Analyzing and Fixing Compilation Errors for LLM-Powered COBOL Code Generation**|Anh T. V. Dau et.al.|[2604.03978](http://arxiv.org/abs/2604.03978)|null|
+|**2026-04-05**|**ACES: Who Tests the Tests? Leave-One-Out AUC Consistency for Code Generation**|Hui Sun et.al.|[2604.03922](http://arxiv.org/abs/2604.03922)|null|
+|**2026-04-04**|**Persistent Cross-Attempt State Optimization for Repository-Level Code Generation**|Ruwei Pan et.al.|[2604.03632](http://arxiv.org/abs/2604.03632)|null|
 |**2026-04-03**|**PAFT: Preservation Aware Fine-Tuning for Minimal-Edit Program Repair**|Boyang Yang et.al.|[2604.03113](http://arxiv.org/abs/2604.03113)|null|
 |**2026-04-03**|**Prompt Compression in the Wild: Measuring Latency, Rate Adherence, and Quality for Faster LLM Inference**|Cornelius Kummer et.al.|[2604.02985](http://arxiv.org/abs/2604.02985)|null|
 |**2026-04-03**|**Evaluating the Environmental Impact of using SLMs and Prompt Engineering for Code Generation**|Md Afif Al Mamun et.al.|[2604.02776](http://arxiv.org/abs/2604.02776)|null|
@@ -775,6 +845,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-06**|**PointTPA: Dynamic Network Parameter Adaptation for 3D Scene Understanding**|Siyuan Liu et.al.|[2604.04933](http://arxiv.org/abs/2604.04933)|null|
+|**2026-04-06**|**Your Pre-trained Diffusion Model Secretly Knows Restoration**|Sudarshan Rajagopalan et.al.|[2604.04924](http://arxiv.org/abs/2604.04924)|null|
+|**2026-04-06**|**Analyzing Symbolic Properties for DRL Agents in Systems and Networking**|Mohammad Zangooei et.al.|[2604.04914](http://arxiv.org/abs/2604.04914)|null|
+|**2026-04-06**|**QED-Nano: Teaching a Tiny Model to Prove Hard Theorems**|LM-Provers et.al.|[2604.04898](http://arxiv.org/abs/2604.04898)|null|
+|**2026-04-06**|**Agentic Federated Learning: The Future of Distributed Training Orchestration**|Rafael O. Jarczewski et.al.|[2604.04895](http://arxiv.org/abs/2604.04895)|null|
+|**2026-04-06**|**Data Attribution in Adaptive Learning**|Amit Kiran Rege et.al.|[2604.04892](http://arxiv.org/abs/2604.04892)|null|
+|**2026-04-06**|**Cloning Encrypted Quantum States in Arbitrary Dimensions**|Filip-Ioan Ceară et.al.|[2604.04888](http://arxiv.org/abs/2604.04888)|null|
+|**2026-04-06**|**Learning, Potential, and Retention: An Approach for Evaluating Adaptive AI-Enabled Medical Devices**|Alexis Burgon et.al.|[2604.04878](http://arxiv.org/abs/2604.04878)|null|
+|**2026-04-06**|**DIRECT: Video Mashup Creation via Hierarchical Multi-Agent Planning and Intent-Guided Editing**|Ke Li et.al.|[2604.04875](http://arxiv.org/abs/2604.04875)|null|
+|**2026-04-06**|**Synthetic Sandbox for Training Machine Learning Engineering Agents**|Yuhang Zhou et.al.|[2604.04872](http://arxiv.org/abs/2604.04872)|null|
 |**2026-04-03**|**VOSR: A Vision-Only Generative Model for Image Super-Resolution**|Rongyuan Wu et.al.|[2604.03225](http://arxiv.org/abs/2604.03225)|null|
 |**2026-04-03**|**HyperCT: Low-Rank Hypernet for Unified Chest CT Analysis**|Fengbei Liu et.al.|[2604.03224](http://arxiv.org/abs/2604.03224)|null|
 |**2026-04-03**|**Learning the Signature of Memorization in Autoregressive Language Models**|David Ilić et.al.|[2604.03199](http://arxiv.org/abs/2604.03199)|null|
