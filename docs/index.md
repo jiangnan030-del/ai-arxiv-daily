@@ -2,13 +2,23 @@
 layout: default
 ---
 
-## Updated on 2026.04.12
+## Updated on 2026.04.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Large Language Model
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-10**|**Tango: Taming Visual Signals for Efficient Video Large Language Models**|Shukang Yin et.al.|[2604.09547](http://arxiv.org/abs/2604.09547)|null|
+|**2026-04-10**|**Large Language Models Generate Harmful Content Using a Distinct, Unified Mechanism**|Hadas Orgad et.al.|[2604.09544](http://arxiv.org/abs/2604.09544)|null|
+|**2026-04-10**|**Trans-RAG: Query-Centric Vector Transformation for Secure Cross-Organizational Retrieval**|Yu Liu et.al.|[2604.09541](http://arxiv.org/abs/2604.09541)|null|
+|**2026-04-10**|**VisionFoundry: Teaching VLMs Visual Perception with Synthetic Images**|Guanyu Zhou et.al.|[2604.09531](http://arxiv.org/abs/2604.09531)|null|
+|**2026-04-10**|**VL-Calibration: Decoupled Confidence Calibration for Large Vision-Language Models Reasoning**|Wenyi Xiao et.al.|[2604.09529](http://arxiv.org/abs/2604.09529)|null|
+|**2026-04-10**|**When LLMs Lag Behind: Knowledge Conflicts from Evolving APIs in Code Generation**|Ahmed Nusayer Ashik et.al.|[2604.09515](http://arxiv.org/abs/2604.09515)|null|
+|**2026-04-10**|**Many Ways to Be Fake: Benchmarking Fake News Detection Under Strategy-Driven AI Generation**|Xinyu Wang et.al.|[2604.09514](http://arxiv.org/abs/2604.09514)|null|
+|**2026-04-10**|**Integrated electro-optic attention nonlinearities for transformers**|Luis Mickeler et.al.|[2604.09512](http://arxiv.org/abs/2604.09512)|null|
+|**2026-04-10**|**RIRF: Reasoning Image Restoration Framework**|Wending Yan et.al.|[2604.09511](http://arxiv.org/abs/2604.09511)|null|
+|**2026-04-10**|**Strategic Algorithmic Monoculture:Experimental Evidence from Coordination Games**|Gonzalo Ballestero et.al.|[2604.09502](http://arxiv.org/abs/2604.09502)|null|
 |**2026-04-09**|**AVGen-Bench: A Task-Driven Benchmark for Multi-Granular Evaluation of Text-to-Audio-Video Generation**|Ziwei Zhou et.al.|[2604.08540](http://arxiv.org/abs/2604.08540)|null|
 |**2026-04-09**|**OpenVLThinkerV2: A Generalist Multimodal Reasoning Model for Multi-domain Visual Tasks**|Wenbo Hu et.al.|[2604.08539](http://arxiv.org/abs/2604.08539)|null|
 |**2026-04-09**|**Demystifying OPD: Length Inflation and Stabilization Strategies for Large Language Models**|Feng Luo et.al.|[2604.08527](http://arxiv.org/abs/2604.08527)|null|
@@ -164,6 +174,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-10**|**Event-Driven Temporal Graph Networks for Asynchronous Multi-Agent Cyber Defense in NetForge_RL**|Igor Jankowski et.al.|[2604.09523](http://arxiv.org/abs/2604.09523)|null|
+|**2026-04-10**|**Semantic Rate-Distortion for Bounded Multi-Agent Communication: Capacity-Derived Semantic Spaces and the Communication Cost of Alignment**|Anthony T. Nixon et.al.|[2604.09521](http://arxiv.org/abs/2604.09521)|null|
+|**2026-04-10**|**VISOR: Agentic Visual Retrieval-Augmented Generation via Iterative Search and Over-horizon Reasoning**|Yucheng Shen et.al.|[2604.09508](http://arxiv.org/abs/2604.09508)|null|
+|**2026-04-10**|**Strategic Algorithmic Monoculture:Experimental Evidence from Coordination Games**|Gonzalo Ballestero et.al.|[2604.09502](http://arxiv.org/abs/2604.09502)|null|
+|**2026-04-10**|**From Reasoning to Agentic: Credit Assignment in Reinforcement Learning for Large Language Models**|Chenchen Zhang et.al.|[2604.09459](http://arxiv.org/abs/2604.09459)|null|
+|**2026-04-10**|**E3-TIR: Enhanced Experience Exploitation for Tool-Integrated Reasoning**|Weiyang Guo et.al.|[2604.09455](http://arxiv.org/abs/2604.09455)|null|
+|**2026-04-10**|**Many-Tier Instruction Hierarchy in LLM Agents**|Jingyu Zhang et.al.|[2604.09443](http://arxiv.org/abs/2604.09443)|null|
+|**2026-04-10**|**Three Modalities, Two Design Probes, One Prototype, and No Vision: Experience-Based Co-Design of a Multi-modal 3D Data Visualization Tool**|Sanchita S. Kamath et.al.|[2604.09426](http://arxiv.org/abs/2604.09426)|null|
+|**2026-04-10**|**BadSkill: Backdoor Attacks on Agent Skills via Model-in-Skill Poisoning**|Guiyao Tie et.al.|[2604.09378](http://arxiv.org/abs/2604.09378)|null|
+|**2026-04-10**|**Through Their Eyes: Fixation-aligned Tuning for Personalized User Emulation**|Lingfeng Huang et.al.|[2604.09368](http://arxiv.org/abs/2604.09368)|null|
 |**2026-04-09**|**Act Wisely: Cultivating Meta-Cognitive Tool Use in Agentic Multimodal Models**|Shilin Yan et.al.|[2604.08545](http://arxiv.org/abs/2604.08545)|null|
 |**2026-04-09**|**ParseBench: A Document Parsing Benchmark for AI Agents**|Boyang Zhang et.al.|[2604.08538](http://arxiv.org/abs/2604.08538)|null|
 |**2026-04-09**|**PSI: Shared State as the Missing Layer for Coherent AI-Generated Instruments in Personal AI Agents**|Zhiyuan Wang et.al.|[2604.08529](http://arxiv.org/abs/2604.08529)|null|
@@ -319,6 +339,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-10**|**Trans-RAG: Query-Centric Vector Transformation for Secure Cross-Organizational Retrieval**|Yu Liu et.al.|[2604.09541](http://arxiv.org/abs/2604.09541)|null|
+|**2026-04-10**|**When LLMs Lag Behind: Knowledge Conflicts from Evolving APIs in Code Generation**|Ahmed Nusayer Ashik et.al.|[2604.09515](http://arxiv.org/abs/2604.09515)|null|
+|**2026-04-10**|**VISOR: Agentic Visual Retrieval-Augmented Generation via Iterative Search and Over-horizon Reasoning**|Yucheng Shen et.al.|[2604.09508](http://arxiv.org/abs/2604.09508)|null|
+|**2026-04-10**|**Policy-Aware Edge LLM-RAG Framework for Internet of Battlefield Things Mission Orchestration**|Om Solanki et.al.|[2604.09493](http://arxiv.org/abs/2604.09493)|null|
+|**2026-04-10**|**On the Representational Limits of Quantum-Inspired 1024-D Document Embeddings: An Experimental Evaluation Framework**|Dario Maio et.al.|[2604.09430](http://arxiv.org/abs/2604.09430)|null|
+|**2026-04-10**|**Facet-Level Tracing of Evidence Uncertainty and Hallucination in RAG**|Passant Elchafei et.al.|[2604.09174](http://arxiv.org/abs/2604.09174)|null|
+|**2026-04-10**|**NyayaMind- A Framework for Transparent Legal Reasoning and Judgment Prediction in the Indian Legal System**|Parjanya Aditya Shukla et.al.|[2604.09069](http://arxiv.org/abs/2604.09069)|null|
+|**2026-04-10**|**MAB-DQA: Addressing Query Aspect Importance in Document Question Answering with Multi-Armed Bandits**|Yixin Xiang et.al.|[2604.08952](http://arxiv.org/abs/2604.08952)|null|
+|**2026-04-10**|**Beyond Relevance: Utility-Centric Retrieval in the LLM Era**|Hengran Zhang et.al.|[2604.08920](http://arxiv.org/abs/2604.08920)|null|
 |**2026-04-09**|**Fundus-R1: Training a Fundus-Reading MLLM with Knowledge-Aware Reasoning on Public Data**|Yuchuan Deng et.al.|[2604.08322](http://arxiv.org/abs/2604.08322)|null|
 |**2026-04-09**|**Securing Retrieval-Augmented Generation: A Taxonomy of Attacks, Defenses, and Future Directions**|Yuming Xu et.al.|[2604.08304](http://arxiv.org/abs/2604.08304)|null|
 |**2026-04-09**|**HyperMem: Hypergraph Memory for Long-Term Conversations**|Juwei Yue et.al.|[2604.08256](http://arxiv.org/abs/2604.08256)|null|
@@ -461,6 +490,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-10**|**Case-Grounded Evidence Verification: A Framework for Constructing Evidence-Sensitive Supervision**|Soroosh Tayebi Arasteh et.al.|[2604.09537](http://arxiv.org/abs/2604.09537)|null|
+|**2026-04-10**|**EgoTL: Egocentric Think-Aloud Chains for Long-Horizon Tasks**|Lulin Liu et.al.|[2604.09535](http://arxiv.org/abs/2604.09535)|null|
+|**2026-04-10**|**VL-Calibration: Decoupled Confidence Calibration for Large Vision-Language Models Reasoning**|Wenyi Xiao et.al.|[2604.09529](http://arxiv.org/abs/2604.09529)|null|
+|**2026-04-10**|**Toward World Models for Epidemiology**|Zeeshan Memon et.al.|[2604.09519](http://arxiv.org/abs/2604.09519)|null|
+|**2026-04-10**|**When LLMs Lag Behind: Knowledge Conflicts from Evolving APIs in Code Generation**|Ahmed Nusayer Ashik et.al.|[2604.09515](http://arxiv.org/abs/2604.09515)|null|
+|**2026-04-10**|**Many Ways to Be Fake: Benchmarking Fake News Detection Under Strategy-Driven AI Generation**|Xinyu Wang et.al.|[2604.09514](http://arxiv.org/abs/2604.09514)|null|
+|**2026-04-10**|**RIRF: Reasoning Image Restoration Framework**|Wending Yan et.al.|[2604.09511](http://arxiv.org/abs/2604.09511)|null|
+|**2026-04-10**|**VISOR: Agentic Visual Retrieval-Augmented Generation via Iterative Search and Over-horizon Reasoning**|Yucheng Shen et.al.|[2604.09508](http://arxiv.org/abs/2604.09508)|null|
+|**2026-04-10**|**RecaLLM: Addressing the Lost-in-Thought Phenomenon with Explicit In-Context Retrieval**|Kyle Whitecross et.al.|[2604.09494](http://arxiv.org/abs/2604.09494)|null|
+|**2026-04-10**|**Policy-Aware Edge LLM-RAG Framework for Internet of Battlefield Things Mission Orchestration**|Om Solanki et.al.|[2604.09493](http://arxiv.org/abs/2604.09493)|null|
 |**2026-04-09**|**Act Wisely: Cultivating Meta-Cognitive Tool Use in Agentic Multimodal Models**|Shilin Yan et.al.|[2604.08545](http://arxiv.org/abs/2604.08545)|null|
 |**2026-04-09**|**Seeing but Not Thinking: Routing Distraction in Multimodal Mixture-of-Experts**|Haolei Xu et.al.|[2604.08541](http://arxiv.org/abs/2604.08541)|null|
 |**2026-04-09**|**AVGen-Bench: A Task-Driven Benchmark for Multi-Granular Evaluation of Text-to-Audio-Video Generation**|Ziwei Zhou et.al.|[2604.08540](http://arxiv.org/abs/2604.08540)|null|
@@ -616,6 +655,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-10**|**Large Language Models Generate Harmful Content Using a Distinct, Unified Mechanism**|Hadas Orgad et.al.|[2604.09544](http://arxiv.org/abs/2604.09544)|null|
+|**2026-04-10**|**EgoTL: Egocentric Think-Aloud Chains for Long-Horizon Tasks**|Lulin Liu et.al.|[2604.09535](http://arxiv.org/abs/2604.09535)|null|
+|**2026-04-10**|**Semantic Rate-Distortion for Bounded Multi-Agent Communication: Capacity-Derived Semantic Spaces and the Communication Cost of Alignment**|Anthony T. Nixon et.al.|[2604.09521](http://arxiv.org/abs/2604.09521)|null|
+|**2026-04-10**|**A three-dimensional morphoelastic model for self-oscillations in polyelectrolyte hydrogel filaments**|Ariel Surya Boiardi et.al.|[2604.09486](http://arxiv.org/abs/2604.09486)|null|
+|**2026-04-10**|**Silence and Noise: Self-censorship and Opinion Expression on Social Media**|Xinyu Wang et.al.|[2604.09465](http://arxiv.org/abs/2604.09465)|null|
+|**2026-04-10**|**AsymLoc: Towards Asymmetric Feature Matching for Efficient Visual Localization**|Mohammad Omama et.al.|[2604.09445](http://arxiv.org/abs/2604.09445)|null|
+|**2026-04-10**|**Confidence Without Competence in AI-Assisted Knowledge Work**|Elena Eleftheriou et.al.|[2604.09444](http://arxiv.org/abs/2604.09444)|null|
+|**2026-04-10**|**TME-PSR: Time-aware, Multi-interest, and Explanation Personalization for Sequential Recommendation**|Qingzhuo Wang et.al.|[2604.09439](http://arxiv.org/abs/2604.09439)|null|
+|**2026-04-10**|**Intent Lenses: Inferring Capture-Time Intent to Transform Opportunistic Photo Captures into Structured Visual Notes**|Ashwin Ram et.al.|[2604.09438](http://arxiv.org/abs/2604.09438)|null|
+|**2026-04-10**|**Musculoskeletal Motion Imitation for Learning Personalized Exoskeleton Control Policy in Impaired Gait**|Itak Choi et.al.|[2604.09431](http://arxiv.org/abs/2604.09431)|null|
 |**2026-04-09**|**ETCH-X: Robustify Expressive Body Fitting to Clothed Humans with Composable Datasets**|Xiaoben Li et.al.|[2604.08548](http://arxiv.org/abs/2604.08548)|null|
 |**2026-04-09**|**When Numbers Speak: Aligning Textual Numerals and Visual Instances in Text-to-Video Diffusion Models**|Zhengyang Sun et.al.|[2604.08546](http://arxiv.org/abs/2604.08546)|null|
 |**2026-04-09**|**SIM1: Physics-Aligned Simulator as Zero-Shot Data Scaler in Deformable Worlds**|Yunsong Zhou et.al.|[2604.08544](http://arxiv.org/abs/2604.08544)|null|
@@ -771,6 +820,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-10**|**EgoTL: Egocentric Think-Aloud Chains for Long-Horizon Tasks**|Lulin Liu et.al.|[2604.09535](http://arxiv.org/abs/2604.09535)|null|
+|**2026-04-10**|**Seeing is Believing: Robust Vision-Guided Cross-Modal Prompt Learning under Label Noise**|Zibin Geng et.al.|[2604.09532](http://arxiv.org/abs/2604.09532)|null|
+|**2026-04-10**|**VisionFoundry: Teaching VLMs Visual Perception with Synthetic Images**|Guanyu Zhou et.al.|[2604.09531](http://arxiv.org/abs/2604.09531)|null|
+|**2026-04-10**|**VL-Calibration: Decoupled Confidence Calibration for Large Vision-Language Models Reasoning**|Wenyi Xiao et.al.|[2604.09529](http://arxiv.org/abs/2604.09529)|null|
+|**2026-04-10**|**RIRF: Reasoning Image Restoration Framework**|Wending Yan et.al.|[2604.09511](http://arxiv.org/abs/2604.09511)|null|
+|**2026-04-10**|**VISOR: Agentic Visual Retrieval-Augmented Generation via Iterative Search and Over-horizon Reasoning**|Yucheng Shen et.al.|[2604.09508](http://arxiv.org/abs/2604.09508)|null|
+|**2026-04-10**|**Realizing Immersive Volumetric Video: A Multimodal Framework for 6-DoF VR Engagement**|Zhengxian Yang et.al.|[2604.09473](http://arxiv.org/abs/2604.09473)|null|
+|**2026-04-10**|**Adaptor: Advancing Assistive Teleoperation with Few-Shot Learning and Cross-Operator Generalization**|Yu Liu et.al.|[2604.09462](http://arxiv.org/abs/2604.09462)|null|
+|**2026-04-10**|**ECHO: Efficient Chest X-ray Report Generation with One-step Block Diffusion**|Lifeng Chen et.al.|[2604.09450](http://arxiv.org/abs/2604.09450)|null|
+|**2026-04-10**|**UIPress: Bringing Optical Token Compression to UI-to-Code Generation**|Dasen Dai et.al.|[2604.09442](http://arxiv.org/abs/2604.09442)|null|
 |**2026-04-09**|**Act Wisely: Cultivating Meta-Cognitive Tool Use in Agentic Multimodal Models**|Shilin Yan et.al.|[2604.08545](http://arxiv.org/abs/2604.08545)|null|
 |**2026-04-09**|**Seeing but Not Thinking: Routing Distraction in Multimodal Mixture-of-Experts**|Haolei Xu et.al.|[2604.08541](http://arxiv.org/abs/2604.08541)|null|
 |**2026-04-09**|**AVGen-Bench: A Task-Driven Benchmark for Multi-Granular Evaluation of Text-to-Audio-Video Generation**|Ziwei Zhou et.al.|[2604.08540](http://arxiv.org/abs/2604.08540)|null|
@@ -926,6 +985,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-10**|**When LLMs Lag Behind: Knowledge Conflicts from Evolving APIs in Code Generation**|Ahmed Nusayer Ashik et.al.|[2604.09515](http://arxiv.org/abs/2604.09515)|null|
+|**2026-04-10**|**UIPress: Bringing Optical Token Compression to UI-to-Code Generation**|Dasen Dai et.al.|[2604.09442](http://arxiv.org/abs/2604.09442)|null|
+|**2026-04-10**|**DeepGuard: Secure Code Generation via Multi-Layer Semantic Aggregation**|Li Huang et.al.|[2604.09089](http://arxiv.org/abs/2604.09089)|null|
+|**2026-04-10**|**Enhancing LLM Problem Solving via Tutor-Student Multi-Agent Interaction**|Nurullah Eymen Özdemir et.al.|[2604.08931](http://arxiv.org/abs/2604.08931)|null|
+|**2026-04-09**|**An Eye for Trust: An Exploration of Developers' Trust Perceptions Through Urgency and Reputation**|Sara Yabesi et.al.|[2604.08713](http://arxiv.org/abs/2604.08713)|null|
+|**2026-04-09**|**Skip-Connected Policy Optimization for Implicit Advantage**|Fengwei Teng et.al.|[2604.08690](http://arxiv.org/abs/2604.08690)|null|
 |**2026-04-09**|**Security Concerns in Generative AI Coding Assistants: Insights from Online Discussions on GitHub Copilot**|Nicolás E. Díaz Ferreyra et.al.|[2604.08352](http://arxiv.org/abs/2604.08352)|null|
 |**2026-04-09**|**Test-Oriented Programming: rethinking coding for the GenAI era**|Jorge Melegati et.al.|[2604.08102](http://arxiv.org/abs/2604.08102)|null|
 |**2026-04-09**|**GALA: Multimodal Graph Alignment for Bug Localization in Automated Program Repair**|Zhuoyao Liu et.al.|[2604.08089](http://arxiv.org/abs/2604.08089)|null|
@@ -1048,6 +1113,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-10**|**Clustered vortex helices with compactly supported cross-sectional vorticity in the 3D Euler equations**|Averkios Averkiou et.al.|[2604.09546](http://arxiv.org/abs/2604.09546)|null|
+|**2026-04-10**|**Large Language Models Generate Harmful Content Using a Distinct, Unified Mechanism**|Hadas Orgad et.al.|[2604.09544](http://arxiv.org/abs/2604.09544)|null|
+|**2026-04-10**|**ANTIC: Adaptive Neural Temporal In-situ Compressor**|Sandeep S. Cranganore et.al.|[2604.09543](http://arxiv.org/abs/2604.09543)|null|
+|**2026-04-10**|**Seeing is Believing: Robust Vision-Guided Cross-Modal Prompt Learning under Label Noise**|Zibin Geng et.al.|[2604.09532](http://arxiv.org/abs/2604.09532)|null|
+|**2026-04-10**|**Toward World Models for Epidemiology**|Zeeshan Memon et.al.|[2604.09519](http://arxiv.org/abs/2604.09519)|null|
+|**2026-04-10**|**RIRF: Reasoning Image Restoration Framework**|Wending Yan et.al.|[2604.09511](http://arxiv.org/abs/2604.09511)|null|
+|**2026-04-10**|**New Scheme Adaption Strategy for Hyperbolic Conservation Laws**|Shaoshuai Chu et.al.|[2604.09498](http://arxiv.org/abs/2604.09498)|null|
+|**2026-04-10**|**Dynamic Ranked List Truncation for Reranking Pipelines via LLM-generated Reference-Documents**|Nilanjan Sinhababu et.al.|[2604.09492](http://arxiv.org/abs/2604.09492)|null|
+|**2026-04-10**|**Online3R: Online Learning for Consistent Sequential Reconstruction Based on Geometry Foundation Model**|Shunkai Zhou et.al.|[2604.09480](http://arxiv.org/abs/2604.09480)|null|
+|**2026-04-10**|**SafeMind: A Risk-Aware Differentiable Control Framework for Adaptive and Safe Quadruped Locomotion**|Zukun Zhang et.al.|[2604.09474](http://arxiv.org/abs/2604.09474)|null|
 |**2026-04-09**|**GaussiAnimate: Reconstruct and Rig Animatable Categories with Level of Dynamics**|Jiaxin Wang et.al.|[2604.08547](http://arxiv.org/abs/2604.08547)|null|
 |**2026-04-09**|**Scal3R: Scalable Test-Time Training for Large-Scale 3D Reconstruction**|Tao Xie et.al.|[2604.08542](http://arxiv.org/abs/2604.08542)|null|
 |**2026-04-09**|**Meta-learning In-Context Enables Training-Free Cross Subject Brain Decoding**|Mu Nan et.al.|[2604.08537](http://arxiv.org/abs/2604.08537)|null|
