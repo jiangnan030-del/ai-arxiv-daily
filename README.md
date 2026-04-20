@@ -41,7 +41,7 @@
 |**2026-04-16**|**Context Over Content: Exposing Evaluation Faking in Automated Judges**|Manan Gupta et.al.|[2604.15224](http://arxiv.org/abs/2604.15224)|null|
 |**2026-04-15**|**One Token per Highly Selective Frame: Towards Extreme Compression for Long Video Understanding**|Zheyu Zhang et.al.|[2604.14149](http://arxiv.org/abs/2604.14149)|null|
 |**2026-04-15**|**ROSE: Retrieval-Oriented Segmentation Enhancement**|Song Tang et.al.|[2604.14147](http://arxiv.org/abs/2604.14147)|null|
-|**2026-04-15**|**From $P(y|x)$ to $P(y)$ : Investigating Reinforcement Learning in Pre-train Space**|Yuqiao Tan et.al.|[2604.14142](http://arxiv.org/abs/2604.14142)|null|
+|**2026-04-15**|**From $P(y|x)$ to $P(y)$ : Investigating Reinforcement Learning in Pre-train Space**|Yuqiao Tan et.al.|[2604.14142](http://arxiv.org/abs/2604.14142)|
 |**2026-04-15**|**LongCoT: Benchmarking Long-Horizon Chain-of-Thought Reasoning**|Sumeet Ramesh Motwani et.al.|[2604.14140](http://arxiv.org/abs/2604.14140)|null|
 |**2026-04-15**|**From Feelings to Metrics: Understanding and Formalizing How Users Vibe-Test LLMs**|Itay Itzhak et.al.|[2604.14137](http://arxiv.org/abs/2604.14137)|null|
 |**2026-04-15**|**Rhetorical Questions in LLM Representations: A Linear Probing Study**|Louie Hong Yao et.al.|[2604.14128](http://arxiv.org/abs/2604.14128)|null|
@@ -677,7 +677,7 @@
 |**2026-04-16**|**Context Over Content: Exposing Evaluation Faking in Automated Judges**|Manan Gupta et.al.|[2604.15224](http://arxiv.org/abs/2604.15224)|null|
 |**2026-04-16**|**AI-Assisted Requirements Engineering: An Empirical Evaluation Relative to Expert Judgment**|Oz Levy et.al.|[2604.15222](http://arxiv.org/abs/2604.15222)|null|
 |**2026-04-15**|**SpatialEvo: Self-Evolving Spatial Intelligence via Deterministic Geometric Environments**|Dinging Li et.al.|[2604.14144](http://arxiv.org/abs/2604.14144)|null|
-|**2026-04-15**|**From $P(y|x)$ to $P(y)$ : Investigating Reinforcement Learning in Pre-train Space**|Yuqiao Tan et.al.|[2604.14142](http://arxiv.org/abs/2604.14142)|null|
+|**2026-04-15**|**From $P(y|x)$ to $P(y)$ : Investigating Reinforcement Learning in Pre-train Space**|Yuqiao Tan et.al.|[2604.14142](http://arxiv.org/abs/2604.14142)|
 |**2026-04-15**|**LongCoT: Benchmarking Long-Horizon Chain-of-Thought Reasoning**|Sumeet Ramesh Motwani et.al.|[2604.14140](http://arxiv.org/abs/2604.14140)|null|
 |**2026-04-15**|**HiVLA: A Visual-Grounded-Centric Hierarchical Embodied Manipulation System**|Tianshuo Yang et.al.|[2604.14125](http://arxiv.org/abs/2604.14125)|null|
 |**2026-04-15**|**Correct Prediction, Wrong Steps? Consensus Reasoning Knowledge Graph for Robust Chain-of-Thought Synthesis**|Zipeng Ling et.al.|[2604.14121](http://arxiv.org/abs/2604.14121)|null|
@@ -893,7 +893,7 @@
 |**2026-04-16**|**Learning to Think Like a Cartoon Captionist: Incongruity-Resolution Supervision for Multimodal Humor Understanding**|Hatice Merve Vural et.al.|[2604.15210](http://arxiv.org/abs/2604.15210)|null|
 |**2026-04-16**|**Meituan Merchant Business Diagnosis via Policy-Guided Dual-Process User Simulation**|Ziyang Chen et.al.|[2604.15190](http://arxiv.org/abs/2604.15190)|null|
 |**2026-04-16**|**QuantCode-Bench: A Benchmark for Evaluating the Ability of Large Language Models to Generate Executable Algorithmic Trading Strategies**|Alexey Khoroshilov et.al.|[2604.15151](http://arxiv.org/abs/2604.15151)|null|
-|**2026-04-15**|**From $P(y|x)$ to $P(y)$ : Investigating Reinforcement Learning in Pre-train Space**|Yuqiao Tan et.al.|[2604.14142](http://arxiv.org/abs/2604.14142)|null|
+|**2026-04-15**|**From $P(y|x)$ to $P(y)$ : Investigating Reinforcement Learning in Pre-train Space**|Yuqiao Tan et.al.|[2604.14142](http://arxiv.org/abs/2604.14142)|
 |**2026-04-15**|**The Radial and Vertical Structure of Molecular Gas in the Edge-On Galaxy NGC 4565**|Grace Krahm et.al.|[2604.14136](http://arxiv.org/abs/2604.14136)|null|
 |**2026-04-15**|**Complex Interpolation of Matrices with an application to Multi-Manifold Learning**|Adi Arbel et.al.|[2604.14118](http://arxiv.org/abs/2604.14118)|null|
 |**2026-04-15**|**Momentum Further Constrains Sharpness at the Edge of Stochastic Stability**|Arseniy Andreyev et.al.|[2604.14108](http://arxiv.org/abs/2604.14108)|null|
