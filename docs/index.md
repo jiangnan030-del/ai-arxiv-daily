@@ -2,13 +2,23 @@
 layout: default
 ---
 
-## Updated on 2026.04.22
+## Updated on 2026.04.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Large Language Model
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-22**|**Stream-CQSA: Avoiding Out-of-Memory in Attention Computation via Flexible Workload Scheduling**|Yiming Bian et.al.|[2604.20819](http://arxiv.org/abs/2604.20819)|null|
+|**2026-04-22**|**Diagnosing CFG Interpretation in LLMs**|Hanqi Li et.al.|[2604.20811](http://arxiv.org/abs/2604.20811)|null|
+|**2026-04-22**|**Autonomous LLM-generated Feedback for Student Exercises in Introductory Software Engineering Courses**|Andreas Metzger et.al.|[2604.20803](http://arxiv.org/abs/2604.20803)|null|
+|**2026-04-22**|**Synthesizing Multi-Agent Harnesses for Vulnerability Discovery**|Hanzhi Liu et.al.|[2604.20801](http://arxiv.org/abs/2604.20801)|null|
+|**2026-04-22**|**LLaDA2.0-Uni: Unifying Multimodal Understanding and Generation with Diffusion Large Language Model**|Inclusion AI et.al.|[2604.20796](http://arxiv.org/abs/2604.20796)|null|
+|**2026-04-22**|**Automatic Ontology Construction Using LLMs as an External Layer of Memory, Verification, and Planning for Hybrid Intelligent Systems**|Pavel Salovskii et.al.|[2604.20795](http://arxiv.org/abs/2604.20795)|null|
+|**2026-04-22**|**Can "AI" Be a Doctor? A Study of Empathy, Readability, and Alignment in Clinical LLMs**|Mariano Barone et.al.|[2604.20791](http://arxiv.org/abs/2604.20791)|null|
+|**2026-04-22**|**Working Memory Constraints Scaffold Learning in Transformers under Data Scarcity**|Pranava Madhyastha et.al.|[2604.20789](http://arxiv.org/abs/2604.20789)|null|
+|**2026-04-22**|**Autark: A Serverless Toolkit for Prototyping Urban Visual Analytics Systems**|Lucas Alexandre et.al.|[2604.20759](http://arxiv.org/abs/2604.20759)|null|
+|**2026-04-22**|**V-tableR1: Process-Supervised Multimodal Table Reasoning with Critic-Guided Policy Optimization**|Yubo Jiang et.al.|[2604.20755](http://arxiv.org/abs/2604.20755)|null|
 |**2026-04-21**|**PlayCoder: Making LLM-Generated GUI Code Playable**|Zhiyuan Peng et.al.|[2604.19742](http://arxiv.org/abs/2604.19742)|null|
 |**2026-04-21**|**VLA Foundry: A Unified Framework for Training Vision-Language-Action Models**|Jean Mercat et.al.|[2604.19728](http://arxiv.org/abs/2604.19728)|null|
 |**2026-04-21**|**Discovering a Shared Logical Subspace: Steering LLM Logical Reasoning via Alignment of Natural-Language and Symbolic Views**|Feihao Fang et.al.|[2604.19716](http://arxiv.org/abs/2604.19716)|null|
@@ -244,6 +254,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-22**|**DeVI: Physics-based Dexterous Human-Object Interaction via Synthetic Video Imitation**|Hyeonwoo Kim et.al.|[2604.20841](http://arxiv.org/abs/2604.20841)|null|
+|**2026-04-22**|**Synthesizing Multi-Agent Harnesses for Vulnerability Discovery**|Hanzhi Liu et.al.|[2604.20801](http://arxiv.org/abs/2604.20801)|null|
+|**2026-04-22**|**Automatic Ontology Construction Using LLMs as an External Layer of Memory, Verification, and Planning for Hybrid Intelligent Systems**|Pavel Salovskii et.al.|[2604.20795](http://arxiv.org/abs/2604.20795)|null|
+|**2026-04-22**|**SWE-chat: Coding Agent Interactions From Real Users in the Wild**|Joachim Baumann et.al.|[2604.20779](http://arxiv.org/abs/2604.20779)|null|
+|**2026-04-22**|**Global Hopf Bifurcation and Symmetric Periodic Solutions in Multi-Agent Systems with Neutral Distributed Delays**|Casey Crane et.al.|[2604.20740](http://arxiv.org/abs/2604.20740)|null|
+|**2026-04-22**|**Learning to Evolve: A Self-Improving Framework for Multi-Agent Systems via Textual Parameter Graph Optimization**|Shan He et.al.|[2604.20714](http://arxiv.org/abs/2604.20714)|null|
+|**2026-04-22**|**Cooperative Profiles Predict Multi-Agent LLM Team Performance in AI for Science Workflows**|Shivani Kumar et.al.|[2604.20658](http://arxiv.org/abs/2604.20658)|null|
+|**2026-04-22**|**CHORUS: An Agentic Framework for Generating Realistic Deliberation Data**|A. Koursaris et.al.|[2604.20651](http://arxiv.org/abs/2604.20651)|null|
+|**2026-04-22**|**pAI/MSc: ML Theory Research with Humans on the Loop**|Mahmoud Abdelmoneum et.al.|[2604.20622](http://arxiv.org/abs/2604.20622)|null|
+|**2026-04-22**|**A Hierarchical MARL-Based Approach for Coordinated Retail P2P Trading and Wholesale Market Participation of DERs**|Patrick Wilk et.al.|[2604.20586](http://arxiv.org/abs/2604.20586)|null|
 |**2026-04-21**|**PlayCoder: Making LLM-Generated GUI Code Playable**|Zhiyuan Peng et.al.|[2604.19742](http://arxiv.org/abs/2604.19742)|null|
 |**2026-04-21**|**Recent Advances in Causal Analysis of the Stochastic Frontier Model**|Samuele Centorrino et.al.|[2604.19693](http://arxiv.org/abs/2604.19693)|null|
 |**2026-04-21**|**A-MAR: Agent-based Multimodal Art Retrieval for Fine-Grained Artwork Understanding**|Shuai Wang et.al.|[2604.19689](http://arxiv.org/abs/2604.19689)|null|
@@ -479,6 +499,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-22**|**Automatic Ontology Construction Using LLMs as an External Layer of Memory, Verification, and Planning for Hybrid Intelligent Systems**|Pavel Salovskii et.al.|[2604.20795](http://arxiv.org/abs/2604.20795)|null|
+|**2026-04-22**|**Coverage, Not Averages: Semantic Stratification for Trustworthy Retrieval Evaluation**|Andrew Klearman et.al.|[2604.20763](http://arxiv.org/abs/2604.20763)|null|
+|**2026-04-22**|**ORPHEAS: A Cross-Lingual Greek-English Embedding Model for Retrieval-Augmented Generation**|Ioannis E. Livieris et.al.|[2604.20666](http://arxiv.org/abs/2604.20666)|null|
+|**2026-04-22**|**Self-Aware Vector Embeddings for Retrieval-Augmented Generation: A Neuroscience-Inspired Framework for Temporal, Confidence-Weighted, and Relational Knowledge**|Naizhong Xu et.al.|[2604.20598](http://arxiv.org/abs/2604.20598)|null|
+|**2026-04-22**|**Knowledge Capsules: Structured Nonparametric Memory Units for LLMs**|Bin Ju et.al.|[2604.20487](http://arxiv.org/abs/2604.20487)|null|
+|**2026-04-22**|**HaS: Accelerating RAG through Homology-Aware Speculative Retrieval**|Peng Peng et.al.|[2604.20452](http://arxiv.org/abs/2604.20452)|null|
+|**2026-04-22**|**Mol-Debate: Multi-Agent Debate Improves Structural Reasoning in Molecular Design**|Wengyu Zhang et.al.|[2604.20254](http://arxiv.org/abs/2604.20254)|null|
+|**2026-04-22**|**All Languages Matter: Understanding and Mitigating Language Bias in Multilingual RAG**|Dan Wang et.al.|[2604.20199](http://arxiv.org/abs/2604.20199)|null|
+|**2026-04-22**|**To Know is to Construct: Schema-Constrained Generation for Agent Memory**|Lei Zheng et.al.|[2604.20117](http://arxiv.org/abs/2604.20117)|null|
+|**2026-04-21**|**A Reproducibility Study of Metacognitive Retrieval-Augmented Generation**|Gabriel Iturra-Bocaz et.al.|[2604.19899](http://arxiv.org/abs/2604.19899)|null|
 |**2026-04-21**|**ECLASS-Augmented Semantic Product Search for Electronic Components**|Nico Baumgart et.al.|[2604.19664](http://arxiv.org/abs/2604.19664)|null|
 |**2026-04-21**|**GenerativeMPC: VLM-RAG-guided Whole-Body MPC with Virtual Impedance for Bimanual Mobile Manipulation**|Marcelino Julio Fernando et.al.|[2604.19522](http://arxiv.org/abs/2604.19522)|null|
 |**2026-04-21**|**RARE: Redundancy-Aware Retrieval Evaluation Framework for High-Similarity Corpora**|Hanjun Cho et.al.|[2604.19047](http://arxiv.org/abs/2604.19047)|null|
@@ -700,6 +730,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-22**|**Self-regulated galaxy evolution within a self-consistently varying galaxy-wide IMF**|Lukas Hof et.al.|[2604.20843](http://arxiv.org/abs/2604.20843)|null|
+|**2026-04-22**|**PokeVLA: Empowering Pocket-Sized Vision-Language-Action Model with Comprehensive World Knowledge Guidance**|Yupeng Zheng et.al.|[2604.20834](http://arxiv.org/abs/2604.20834)|null|
+|**2026-04-22**|**Diagnosing CFG Interpretation in LLMs**|Hanqi Li et.al.|[2604.20811](http://arxiv.org/abs/2604.20811)|null|
+|**2026-04-22**|**OMIBench: Benchmarking Olympiad-Level Multi-Image Reasoning in Large Vision-Language Model**|Qiguang Chen et.al.|[2604.20806](http://arxiv.org/abs/2604.20806)|null|
+|**2026-04-22**|**Machine Learning-Based Characterization of Solar p-Mode Frequency Shifts during Solar Cycle 25**|Rekha Jain et.al.|[2604.20802](http://arxiv.org/abs/2604.20802)|null|
+|**2026-04-22**|**LLaDA2.0-Uni: Unifying Multimodal Understanding and Generation with Diffusion Large Language Model**|Inclusion AI et.al.|[2604.20796](http://arxiv.org/abs/2604.20796)|null|
+|**2026-04-22**|**Automatic Ontology Construction Using LLMs as an External Layer of Memory, Verification, and Planning for Hybrid Intelligent Systems**|Pavel Salovskii et.al.|[2604.20795](http://arxiv.org/abs/2604.20795)|null|
+|**2026-04-22**|**Modularity, Extensions and Connectivity in Infinite Matroids**|Mattias Ehatamm et.al.|[2604.20778](http://arxiv.org/abs/2604.20778)|null|
+|**2026-04-22**|**V-tableR1: Process-Supervised Multimodal Table Reasoning with Critic-Guided Policy Optimization**|Yubo Jiang et.al.|[2604.20755](http://arxiv.org/abs/2604.20755)|null|
+|**2026-04-22**|**Where and What: Reasoning Dynamic and Implicit Preferences in Situated Conversational Recommendation**|Dongding Lin et.al.|[2604.20749](http://arxiv.org/abs/2604.20749)|null|
 |**2026-04-21**|**Discovering a Shared Logical Subspace: Steering LLM Logical Reasoning via Alignment of Natural-Language and Symbolic Views**|Feihao Fang et.al.|[2604.19716](http://arxiv.org/abs/2604.19716)|null|
 |**2026-04-21**|**SpanVLA: Efficient Action Bridging and Learning from Negative-Recovery Samples for Vision-Language-Action Model**|Zewei Zhou et.al.|[2604.19710](http://arxiv.org/abs/2604.19710)|null|
 |**2026-04-21**|**Epistemic orientation in parliamentary discourse is associated with deliberative democracy**|Segun Aroyehun et.al.|[2604.19699](http://arxiv.org/abs/2604.19699)|null|
@@ -935,6 +975,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-22**|**SpeechParaling-Bench: A Comprehensive Benchmark for Paralinguistic-Aware Speech Generation**|Ruohan Liu et.al.|[2604.20842](http://arxiv.org/abs/2604.20842)|null|
+|**2026-04-22**|**PokeVLA: Empowering Pocket-Sized Vision-Language-Action Model with Comprehensive World Knowledge Guidance**|Yupeng Zheng et.al.|[2604.20834](http://arxiv.org/abs/2604.20834)|null|
+|**2026-04-22**|**From Meme to Method: Rethinking Animal Adoption Platforms through the Cat Distribution System**|Carl Angelo Angcana et.al.|[2604.20823](http://arxiv.org/abs/2604.20823)|null|
+|**2026-04-22**|**ParetoSlider: Diffusion Models Post-Training for Continuous Reward Control**|Shelly Golan et.al.|[2604.20816](http://arxiv.org/abs/2604.20816)|null|
+|**2026-04-22**|**Diagnosing CFG Interpretation in LLMs**|Hanqi Li et.al.|[2604.20811](http://arxiv.org/abs/2604.20811)|null|
+|**2026-04-22**|**DNA storage approaching the information-theoretic ceiling**|James L. Banal et.al.|[2604.20810](http://arxiv.org/abs/2604.20810)|null|
+|**2026-04-22**|**Relative Principals, Pluralistic Alignment, and the Structural Value Alignment Problem**|Travis LaCroix et.al.|[2604.20805](http://arxiv.org/abs/2604.20805)|null|
+|**2026-04-22**|**Can "AI" Be a Doctor? A Study of Empathy, Readability, and Alignment in Clinical LLMs**|Mariano Barone et.al.|[2604.20791](http://arxiv.org/abs/2604.20791)|null|
+|**2026-04-22**|**Working Memory Constraints Scaffold Learning in Transformers under Data Scarcity**|Pranava Madhyastha et.al.|[2604.20789](http://arxiv.org/abs/2604.20789)|null|
+|**2026-04-22**|**V-tableR1: Process-Supervised Multimodal Table Reasoning with Critic-Guided Policy Optimization**|Yubo Jiang et.al.|[2604.20755](http://arxiv.org/abs/2604.20755)|null|
 |**2026-04-21**|**PlayCoder: Making LLM-Generated GUI Code Playable**|Zhiyuan Peng et.al.|[2604.19742](http://arxiv.org/abs/2604.19742)|null|
 |**2026-04-21**|**UniT: Toward a Unified Physical Language for Human-to-Humanoid Policy Learning and World Modeling**|Boyu Chen et.al.|[2604.19734](http://arxiv.org/abs/2604.19734)|null|
 |**2026-04-21**|**FB-NLL: A Feature-Based Approach to Tackle Noisy Labels in Personalized Federated Learning**|Abdulmoneam Ali et.al.|[2604.19729](http://arxiv.org/abs/2604.19729)|null|
@@ -1170,6 +1220,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-22**|**PokeVLA: Empowering Pocket-Sized Vision-Language-Action Model with Comprehensive World Knowledge Guidance**|Yupeng Zheng et.al.|[2604.20834](http://arxiv.org/abs/2604.20834)|null|
+|**2026-04-22**|**Adapting TrOCR for Printed Tigrinya Text Recognition: Word-Aware Loss Weighting for Cross-Script Transfer Learning**|Yonatan Haile Medhanie et.al.|[2604.20813](http://arxiv.org/abs/2604.20813)|null|
+|**2026-04-22**|**OMIBench: Benchmarking Olympiad-Level Multi-Image Reasoning in Large Vision-Language Model**|Qiguang Chen et.al.|[2604.20806](http://arxiv.org/abs/2604.20806)|null|
+|**2026-04-22**|**LLaDA2.0-Uni: Unifying Multimodal Understanding and Generation with Diffusion Large Language Model**|Inclusion AI et.al.|[2604.20796](http://arxiv.org/abs/2604.20796)|null|
+|**2026-04-22**|**V-tableR1: Process-Supervised Multimodal Table Reasoning with Critic-Guided Policy Optimization**|Yubo Jiang et.al.|[2604.20755](http://arxiv.org/abs/2604.20755)|null|
+|**2026-04-22**|**Where and What: Reasoning Dynamic and Implicit Preferences in Situated Conversational Recommendation**|Dongding Lin et.al.|[2604.20749](http://arxiv.org/abs/2604.20749)|null|
+|**2026-04-22**|**Render-in-the-Loop: Vector Graphics Generation via Visual Self-Feedback**|Guotao Liang et.al.|[2604.20730](http://arxiv.org/abs/2604.20730)|null|
+|**2026-04-22**|**SSL-R1: Self-Supervised Visual Reinforcement Post-Training for Multimodal Large Language Models**|Jiahao Xie et.al.|[2604.20705](http://arxiv.org/abs/2604.20705)|null|
+|**2026-04-22**|**R-CoV: Region-Aware Chain-of-Verification for Alleviating Object Hallucinations in LVLMs**|Jiahao Xie et.al.|[2604.20696](http://arxiv.org/abs/2604.20696)|null|
+|**2026-04-22**|**The Expense of Seeing: Attaining Trustworthy Multimodal Reasoning Within the Monolithic Paradigm**|Karan Goyal et.al.|[2604.20665](http://arxiv.org/abs/2604.20665)|null|
 |**2026-04-21**|**CityRAG: Stepping Into a City via Spatially-Grounded Video Generation**|Gene Chou et.al.|[2604.19741](http://arxiv.org/abs/2604.19741)|null|
 |**2026-04-21**|**VLA Foundry: A Unified Framework for Training Vision-Language-Action Models**|Jean Mercat et.al.|[2604.19728](http://arxiv.org/abs/2604.19728)|null|
 |**2026-04-21**|**SpanVLA: Efficient Action Bridging and Learning from Negative-Recovery Samples for Vision-Language-Action Model**|Zewei Zhou et.al.|[2604.19710](http://arxiv.org/abs/2604.19710)|null|
@@ -1405,6 +1465,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-22**|**Parallel-SFT: Improving Zero-Shot Cross-Programming-Language Transfer for Code RL**|Zhaofeng Wu et.al.|[2604.20835](http://arxiv.org/abs/2604.20835)|null|
+|**2026-04-22**|**Automatic Code and Test Generation of Smart Contracts from Coordination Models**|Elvis Konjoh Selabi et.al.|[2604.20507](http://arxiv.org/abs/2604.20507)|null|
+|**2026-04-22**|**WebGen-R1: Incentivizing Large Language Models to Generate Functional and Aesthetic Websites with Reinforcement Learning**|Juyong Jiang et.al.|[2604.20398](http://arxiv.org/abs/2604.20398)|null|
+|**2026-04-22**|**On the Quantization Robustness of Diffusion Language Models in Coding Benchmarks**|Aarav Gupta et.al.|[2604.20079](http://arxiv.org/abs/2604.20079)|null|
+|**2026-04-21**|**CreativeGame:Toward Mechanic-Aware Creative Game Generation**|Hongnan Ma et.al.|[2604.19926](http://arxiv.org/abs/2604.19926)|null|
 |**2026-04-21**|**PlayCoder: Making LLM-Generated GUI Code Playable**|Zhiyuan Peng et.al.|[2604.19742](http://arxiv.org/abs/2604.19742)|null|
 |**2026-04-21**|**CASCADE: Detecting Inconsistencies between Code and Documentation with Automatic Test Generation**|Tobias Kiecker et.al.|[2604.19400](http://arxiv.org/abs/2604.19400)|null|
 |**2026-04-21**|**DebugRepair: Enhancing LLM-Based Automated Program Repair via Self-Directed Debugging**|Linhao Wu et.al.|[2604.19305](http://arxiv.org/abs/2604.19305)|null|
@@ -1594,6 +1659,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-22**|**SpeechParaling-Bench: A Comprehensive Benchmark for Paralinguistic-Aware Speech Generation**|Ruohan Liu et.al.|[2604.20842](http://arxiv.org/abs/2604.20842)|null|
+|**2026-04-22**|**Dynamic Construction of the Lovász Local Lemma**|Bernhard Haeupler et.al.|[2604.20836](http://arxiv.org/abs/2604.20836)|null|
+|**2026-04-22**|**Closing the Domain Gap in Biomedical Imaging by In-Context Control Samples**|Ana Sanchez-Fernandez et.al.|[2604.20824](http://arxiv.org/abs/2604.20824)|null|
+|**2026-04-22**|**Stream-CQSA: Avoiding Out-of-Memory in Attention Computation via Flexible Workload Scheduling**|Yiming Bian et.al.|[2604.20819](http://arxiv.org/abs/2604.20819)|null|
+|**2026-04-22**|**Adapting TrOCR for Printed Tigrinya Text Recognition: Word-Aware Loss Weighting for Cross-Script Transfer Learning**|Yonatan Haile Medhanie et.al.|[2604.20813](http://arxiv.org/abs/2604.20813)|null|
+|**2026-04-22**|**Magnetic uncertainty in variable geometry**|Luca Fanelli et.al.|[2604.20794](http://arxiv.org/abs/2604.20794)|null|
+|**2026-04-22**|**Physics-Conditioned Synthesis of Internal Ice-Layer Thickness for Incomplete Layer Traces**|Zesheng Liu et.al.|[2604.20783](http://arxiv.org/abs/2604.20783)|null|
+|**2026-04-22**|**Accurate Frequency Response Modeling in Integrated T&D Co-Simulation via EWMA-RTTA-Based Quadratic Extrapolation**|Jong Ha Woo et.al.|[2604.20773](http://arxiv.org/abs/2604.20773)|null|
+|**2026-04-22**|**Amodal SAM: A Unified Amodal Segmentation Framework with Generalization**|Bo Zhang et.al.|[2604.20748](http://arxiv.org/abs/2604.20748)|null|
+|**2026-04-22**|**Lifecycle-Aware Federated Continual Learning in Mobile Autonomous Systems**|Beining Wu et.al.|[2604.20745](http://arxiv.org/abs/2604.20745)|null|
 |**2026-04-21**|**PlayCoder: Making LLM-Generated GUI Code Playable**|Zhiyuan Peng et.al.|[2604.19742](http://arxiv.org/abs/2604.19742)|null|
 |**2026-04-21**|**Safe Continual Reinforcement Learning in Non-stationary Environments**|Austin Coursey et.al.|[2604.19737](http://arxiv.org/abs/2604.19737)|null|
 |**2026-04-21**|**VLA Foundry: A Unified Framework for Training Vision-Language-Action Models**|Jean Mercat et.al.|[2604.19728](http://arxiv.org/abs/2604.19728)|null|
