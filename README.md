@@ -1,4 +1,4 @@
-## Updated on 2026.04.23
+## Updated on 2026.04.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -19,6 +19,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-23**|**Evaluation of Automatic Speech Recognition Using Generative Large Language Models**|Thibault Bañeras-Roux et.al.|[2604.21928](http://arxiv.org/abs/2604.21928)|null|
+|**2026-04-23**|**Seeing Without Eyes: 4D Human-Scene Understanding from Wearable IMUs**|Hao-Yu Hsu et.al.|[2604.21926](http://arxiv.org/abs/2604.21926)|null|
+|**2026-04-23**|**MathDuels: Evaluating LLMs as Problem Posers and Solvers**|Zhiqiu Xu et.al.|[2604.21916](http://arxiv.org/abs/2604.21916)|null|
+|**2026-04-23**|**From Research Question to Scientific Workflow: Leveraging Agentic AI for Science Automation**|Bartosz Balis et.al.|[2604.21910](http://arxiv.org/abs/2604.21910)|null|
+|**2026-04-23**|**Nemobot Games: Crafting Strategic AI Gaming Agents for Interactive Learning with Large Language Models**|Chee Wei Tan et.al.|[2604.21896](http://arxiv.org/abs/2604.21896)|null|
+|**2026-04-23**|**EVENT5Ws: A Large Dataset for Open-Domain Event Extraction from Documents**|Praval Sharma et.al.|[2604.21890](http://arxiv.org/abs/2604.21890)|null|
+|**2026-04-23**|**TingIS: Real-time Risk Event Discovery from Noisy Customer Incidents at Enterprise Scale**|Jun Wang et.al.|[2604.21889](http://arxiv.org/abs/2604.21889)|null|
+|**2026-04-23**|**A Multimodal Text- and Graph-Based Approach for Open-Domain Event Extraction from Documents**|Praval Sharma et.al.|[2604.21885](http://arxiv.org/abs/2604.21885)|null|
+|**2026-04-23**|**Revisiting Non-Verbatim Memorization in Large Language Models: The Role of Entity Surface Forms**|Yuto Nishida et.al.|[2604.21882](http://arxiv.org/abs/2604.21882)|null|
+|**2026-04-23**|**Machine Behavior in Relational Moral Dilemmas: Moral Rightness, Predicted Human Behavior, and Model Decisions**|Jiseon Kim et.al.|[2604.21871](http://arxiv.org/abs/2604.21871)|null|
 |**2026-04-22**|**Stream-CQSA: Avoiding Out-of-Memory in Attention Computation via Flexible Workload Scheduling**|Yiming Bian et.al.|[2604.20819](http://arxiv.org/abs/2604.20819)|null|
 |**2026-04-22**|**Diagnosing CFG Interpretation in LLMs**|Hanqi Li et.al.|[2604.20811](http://arxiv.org/abs/2604.20811)|null|
 |**2026-04-22**|**Autonomous LLM-generated Feedback for Student Exercises in Introductory Software Engineering Courses**|Andreas Metzger et.al.|[2604.20803](http://arxiv.org/abs/2604.20803)|null|
@@ -260,12 +270,22 @@
 |**2026-03-19**|**Box Maze: A Process-Control Architecture for Reliable LLM Reasoning**|Zou Qiang et.al.|[2603.19182](http://arxiv.org/abs/2603.19182)|null|
 |**2026-03-19**|**Evaluating Counterfactual Strategic Reasoning in Large Language Models**|Dimitrios Georgousis et.al.|[2603.19167](http://arxiv.org/abs/2603.19167)|null|
 
-<p align=right>(<a href=#updated-on-20260423>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260424>back to top</a>)</p>
 
 ## AI Agent
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-23**|**First measurement of wind line formation regions in an early O-type star**|D. Pauli et.al.|[2604.21920](http://arxiv.org/abs/2604.21920)|null|
+|**2026-04-23**|**Nemobot Games: Crafting Strategic AI Gaming Agents for Interactive Learning with Large Language Models**|Chee Wei Tan et.al.|[2604.21896](http://arxiv.org/abs/2604.21896)|null|
+|**2026-04-23**|**Task-Driven Co-Design of Heterogeneous Multi-Robot Systems**|Maximilian Stralz et.al.|[2604.21894](http://arxiv.org/abs/2604.21894)|null|
+|**2026-04-23**|**Transient Turn Injection: Exposing Stateless Multi-Turn Vulnerabilities in Large Language Models**|Naheed Rayhan et.al.|[2604.21860](http://arxiv.org/abs/2604.21860)|null|
+|**2026-04-23**|**OptiMat Alloys: A FAIR End-to-End Agent with Living Database for Computational Multi-Principal Alloy Exploration**|Yang Hu et.al.|[2604.21850](http://arxiv.org/abs/2604.21850)|null|
+|**2026-04-23**|**Black-Box Skill Stealing Attack from Proprietary LLM Agents: An Empirical Study**|Zihan Wang et.al.|[2604.21829](http://arxiv.org/abs/2604.21829)|null|
+|**2026-04-23**|**Tool Attention Is All You Need: Dynamic Tool Gating and Lazy Schema Loading for Eliminating the MCP/Tools Tax in Scalable Agentic Workflows**|Anuj Sadani et.al.|[2604.21816](http://arxiv.org/abs/2604.21816)|null|
+|**2026-04-23**|**Phenomenological Detector Design and Optimization in Vertically-Integrated Differentiable Full Simulations with Agentic-AI**|Wonyong Chung et.al.|[2604.21804](http://arxiv.org/abs/2604.21804)|null|
+|**2026-04-23**|**Learning to Communicate: Toward End-to-End Optimization of Multi-Agent Language Systems**|Ye Yu et.al.|[2604.21794](http://arxiv.org/abs/2604.21794)|null|
+|**2026-04-23**|**StructMem: Structured Memory for Long-Horizon Behavior in LLMs**|Buqiang Xu et.al.|[2604.21748](http://arxiv.org/abs/2604.21748)|null|
 |**2026-04-22**|**DeVI: Physics-based Dexterous Human-Object Interaction via Synthetic Video Imitation**|Hyeonwoo Kim et.al.|[2604.20841](http://arxiv.org/abs/2604.20841)|null|
 |**2026-04-22**|**Synthesizing Multi-Agent Harnesses for Vulnerability Discovery**|Hanzhi Liu et.al.|[2604.20801](http://arxiv.org/abs/2604.20801)|null|
 |**2026-04-22**|**Automatic Ontology Construction Using LLMs as an External Layer of Memory, Verification, and Planning for Hybrid Intelligent Systems**|Pavel Salovskii et.al.|[2604.20795](http://arxiv.org/abs/2604.20795)|null|
@@ -507,17 +527,19 @@
 |**2026-03-19**|**The Simplicity of the Hodge Bundle**|Anand Patel et.al.|[2603.19052](http://arxiv.org/abs/2603.19052)|null|
 |**2026-03-19**|**Security awareness in LLM agents: the NDAI zone case**|Enrico Bottazzi et.al.|[2603.19011](http://arxiv.org/abs/2603.19011)|null|
 
-<p align=right>(<a href=#updated-on-20260423>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260424>back to top</a>)</p>
 
 ## RAG
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-23**|**CI-Work: Benchmarking Contextual Integrity in Enterprise LLM Agents**|Wenjie Fu et.al.|[2604.21308](http://arxiv.org/abs/2604.21308)|null|
+|**2026-04-22**|**Adaptive Defense Orchestration for RAG: A Sentinel-Strategist Architecture against Multi-Vector Attacks**|Pranav Pallerla et.al.|[2604.20932](http://arxiv.org/abs/2604.20932)|null|
 |**2026-04-22**|**Automatic Ontology Construction Using LLMs as an External Layer of Memory, Verification, and Planning for Hybrid Intelligent Systems**|Pavel Salovskii et.al.|[2604.20795](http://arxiv.org/abs/2604.20795)|null|
 |**2026-04-22**|**Coverage, Not Averages: Semantic Stratification for Trustworthy Retrieval Evaluation**|Andrew Klearman et.al.|[2604.20763](http://arxiv.org/abs/2604.20763)|null|
 |**2026-04-22**|**ORPHEAS: A Cross-Lingual Greek-English Embedding Model for Retrieval-Augmented Generation**|Ioannis E. Livieris et.al.|[2604.20666](http://arxiv.org/abs/2604.20666)|null|
 |**2026-04-22**|**Self-Aware Vector Embeddings for Retrieval-Augmented Generation: A Neuroscience-Inspired Framework for Temporal, Confidence-Weighted, and Relational Knowledge**|Naizhong Xu et.al.|[2604.20598](http://arxiv.org/abs/2604.20598)|null|
-|**2026-04-22**|**Knowledge Capsules: Structured Nonparametric Memory Units for LLMs**|Bin Ju et.al.|[2604.20487](http://arxiv.org/abs/2604.20487)|null|
+|**2026-04-23**|**Knowledge Capsules: Structured Nonparametric Memory Units for LLMs**|Bin Ju et.al.|[2604.20487](http://arxiv.org/abs/2604.20487)|null|
 |**2026-04-22**|**HaS: Accelerating RAG through Homology-Aware Speculative Retrieval**|Peng Peng et.al.|[2604.20452](http://arxiv.org/abs/2604.20452)|null|
 |**2026-04-22**|**Mol-Debate: Multi-Agent Debate Improves Structural Reasoning in Molecular Design**|Wengyu Zhang et.al.|[2604.20254](http://arxiv.org/abs/2604.20254)|null|
 |**2026-04-22**|**All Languages Matter: Understanding and Mitigating Language Bias in Multilingual RAG**|Dan Wang et.al.|[2604.20199](http://arxiv.org/abs/2604.20199)|null|
@@ -740,12 +762,22 @@
 |**2026-03-18**|**Large Language Models in Teaching and Learning: Reflections on Implementing an AI Chatbot in Higher Education**|Fiammetta Caccavale et.al.|[2603.17773](http://arxiv.org/abs/2603.17773)|null|
 |**2026-03-18**|**Grounded Multimodal Retrieval-Augmented Drafting of Radiology Impressions Using Case-Based Similarity Search**|Himadri Samanta et.al.|[2603.17765](http://arxiv.org/abs/2603.17765)|null|
 
-<p align=right>(<a href=#updated-on-20260423>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260424>back to top</a>)</p>
 
 ## Prompt Engineering
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-23**|**Seeing Fast and Slow: Learning the Flow of Time in Videos**|Yen-Siang Wu et.al.|[2604.21931](http://arxiv.org/abs/2604.21931)|null|
+|**2026-04-23**|**Long-Horizon Manipulation via Trace-Conditioned VLA Planning**|Isabella Liu et.al.|[2604.21924](http://arxiv.org/abs/2604.21924)|null|
+|**2026-04-23**|**Context Unrolling in Omni Models**|Ceyuan Yang et.al.|[2604.21921](http://arxiv.org/abs/2604.21921)|null|
+|**2026-04-23**|**Nemobot Games: Crafting Strategic AI Gaming Agents for Interactive Learning with Large Language Models**|Chee Wei Tan et.al.|[2604.21896](http://arxiv.org/abs/2604.21896)|null|
+|**2026-04-23**|**Task-Driven Co-Design of Heterogeneous Multi-Robot Systems**|Maximilian Stralz et.al.|[2604.21894](http://arxiv.org/abs/2604.21894)|null|
+|**2026-04-23**|**A Multimodal Text- and Graph-Based Approach for Open-Domain Event Extraction from Documents**|Praval Sharma et.al.|[2604.21885](http://arxiv.org/abs/2604.21885)|null|
+|**2026-04-23**|**Grounding Video Reasoning in Physical Signals**|Alibay Osmanli et.al.|[2604.21873](http://arxiv.org/abs/2604.21873)|null|
+|**2026-04-23**|**Machine Behavior in Relational Moral Dilemmas: Moral Rightness, Predicted Human Behavior, and Model Decisions**|Jiseon Kim et.al.|[2604.21871](http://arxiv.org/abs/2604.21871)|null|
+|**2026-04-23**|**Locating acts of mechanistic reasoning in student team conversations with mechanistic machine learning**|Kaitlin Gili et.al.|[2604.21870](http://arxiv.org/abs/2604.21870)|null|
+|**2026-04-23**|**Tool Attention Is All You Need: Dynamic Tool Gating and Lazy Schema Loading for Eliminating the MCP/Tools Tax in Scalable Agentic Workflows**|Anuj Sadani et.al.|[2604.21816](http://arxiv.org/abs/2604.21816)|null|
 |**2026-04-22**|**Self-regulated galaxy evolution within a self-consistently varying galaxy-wide IMF**|Lukas Hof et.al.|[2604.20843](http://arxiv.org/abs/2604.20843)|null|
 |**2026-04-22**|**PokeVLA: Empowering Pocket-Sized Vision-Language-Action Model with Comprehensive World Knowledge Guidance**|Yupeng Zheng et.al.|[2604.20834](http://arxiv.org/abs/2604.20834)|null|
 |**2026-04-22**|**Diagnosing CFG Interpretation in LLMs**|Hanqi Li et.al.|[2604.20811](http://arxiv.org/abs/2604.20811)|null|
@@ -987,12 +1019,22 @@
 |**2026-03-19**|**Box Maze: A Process-Control Architecture for Reliable LLM Reasoning**|Zou Qiang et.al.|[2603.19182](http://arxiv.org/abs/2603.19182)|null|
 |**2026-03-19**|**ARIADNE: A Perception-Reasoning Synergy Framework for Trustworthy Coronary Angiography Analysis**|Zhan Jin et.al.|[2603.19169](http://arxiv.org/abs/2603.19169)|null|
 
-<p align=right>(<a href=#updated-on-20260423>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260424>back to top</a>)</p>
 
 ## RLHF
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-23**|**When Prompts Override Vision: Prompt-Induced Hallucinations in LVLMs**|Pegah Khayatan et.al.|[2604.21911](http://arxiv.org/abs/2604.21911)|null|
+|**2026-04-23**|**UniGenDet: A Unified Generative-Discriminative Framework for Co-Evolutionary Image Generation and Generated Image Detection**|Yanran Zhang et.al.|[2604.21904](http://arxiv.org/abs/2604.21904)|null|
+|**2026-04-23**|**Mapping the Political Discourse in the Brazilian Chamber of Deputies: A Multi-Faceted Computational Approach**|Flávio Soriano et.al.|[2604.21897](http://arxiv.org/abs/2604.21897)|null|
+|**2026-04-23**|**Machine Behavior in Relational Moral Dilemmas: Moral Rightness, Predicted Human Behavior, and Model Decisions**|Jiseon Kim et.al.|[2604.21871](http://arxiv.org/abs/2604.21871)|null|
+|**2026-04-23**|**Locating acts of mechanistic reasoning in student team conversations with mechanistic machine learning**|Kaitlin Gili et.al.|[2604.21870](http://arxiv.org/abs/2604.21870)|null|
+|**2026-04-23**|**Neuromorphic Computing Based on Parametrically-Driven Oscillators and Frequency Combs**|Mahadev Sunil Kumar et.al.|[2604.21861](http://arxiv.org/abs/2604.21861)|null|
+|**2026-04-23**|**Transient Turn Injection: Exposing Stateless Multi-Turn Vulnerabilities in Large Language Models**|Naheed Rayhan et.al.|[2604.21860](http://arxiv.org/abs/2604.21860)|null|
+|**2026-04-23**|**Mitigating Systematic Errors in Parameter Estimation of Binary Black Hole Mergers in O1-O3 LIGO-Virgo Data**|Sumit Kumar et.al.|[2604.21859](http://arxiv.org/abs/2604.21859)|null|
+|**2026-04-23**|**Cross-Modal Phantom: Coordinated Camera-LiDAR Spoofing Against Multi-Sensor Fusion in Autonomous Vehicles**|Shahriar Rahman Khan et.al.|[2604.21841](http://arxiv.org/abs/2604.21841)|null|
+|**2026-04-23**|**Modulating Cross-Modal Convergence with Single-Stimulus, Intra-Modal Dispersion**|Eghbal A. Hosseini et.al.|[2604.21836](http://arxiv.org/abs/2604.21836)|null|
 |**2026-04-22**|**SpeechParaling-Bench: A Comprehensive Benchmark for Paralinguistic-Aware Speech Generation**|Ruohan Liu et.al.|[2604.20842](http://arxiv.org/abs/2604.20842)|null|
 |**2026-04-22**|**PokeVLA: Empowering Pocket-Sized Vision-Language-Action Model with Comprehensive World Knowledge Guidance**|Yupeng Zheng et.al.|[2604.20834](http://arxiv.org/abs/2604.20834)|null|
 |**2026-04-22**|**From Meme to Method: Rethinking Animal Adoption Platforms through the Cat Distribution System**|Carl Angelo Angcana et.al.|[2604.20823](http://arxiv.org/abs/2604.20823)|null|
@@ -1234,12 +1276,22 @@
 |**2026-03-19**|**GenMFSR: Generative Multi-Frame Image Restoration and Super-Resolution**|Harshana Weligampola et.al.|[2603.19187](http://arxiv.org/abs/2603.19187)|null|
 |**2026-03-19**|**Improving RCT-Based Treatment Effect Estimation Under Covariate Mismatch via Calibrated Alignment**|Amir Asiaee et.al.|[2603.19186](http://arxiv.org/abs/2603.19186)|null|
 
-<p align=right>(<a href=#updated-on-20260423>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260424>back to top</a>)</p>
 
 ## Multimodal
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-23**|**Seeing Fast and Slow: Learning the Flow of Time in Videos**|Yen-Siang Wu et.al.|[2604.21931](http://arxiv.org/abs/2604.21931)|null|
+|**2026-04-23**|**Long-Horizon Manipulation via Trace-Conditioned VLA Planning**|Isabella Liu et.al.|[2604.21924](http://arxiv.org/abs/2604.21924)|null|
+|**2026-04-23**|**Context Unrolling in Omni Models**|Ceyuan Yang et.al.|[2604.21921](http://arxiv.org/abs/2604.21921)|null|
+|**2026-04-23**|**When Prompts Override Vision: Prompt-Induced Hallucinations in LVLMs**|Pegah Khayatan et.al.|[2604.21911](http://arxiv.org/abs/2604.21911)|null|
+|**2026-04-23**|**UniGenDet: A Unified Generative-Discriminative Framework for Co-Evolutionary Image Generation and Generated Image Detection**|Yanran Zhang et.al.|[2604.21904](http://arxiv.org/abs/2604.21904)|null|
+|**2026-04-23**|**A Multimodal Text- and Graph-Based Approach for Open-Domain Event Extraction from Documents**|Praval Sharma et.al.|[2604.21885](http://arxiv.org/abs/2604.21885)|null|
+|**2026-04-23**|**TEMA: Anchor the Image, Follow the Text for Multi-Modification Composed Image Retrieval**|Zixu Li et.al.|[2604.21806](http://arxiv.org/abs/2604.21806)|null|
+|**2026-04-23**|**From Codebooks to VLMs: Evaluating Automated Visual Discourse Analysis for Climate Change on Social Media**|Katharina Prasse et.al.|[2604.21786](http://arxiv.org/abs/2604.21786)|null|
+|**2026-04-23**|**Misinformation Span Detection in Videos via Audio Transcripts**|Breno Matos et.al.|[2604.21767](http://arxiv.org/abs/2604.21767)|null|
+|**2026-04-23**|**Ramen: Robust Test-Time Adaptation of Vision-Language Models with Active Sample Selection**|Wenxuan Bao et.al.|[2604.21728](http://arxiv.org/abs/2604.21728)|null|
 |**2026-04-22**|**PokeVLA: Empowering Pocket-Sized Vision-Language-Action Model with Comprehensive World Knowledge Guidance**|Yupeng Zheng et.al.|[2604.20834](http://arxiv.org/abs/2604.20834)|null|
 |**2026-04-22**|**Adapting TrOCR for Printed Tigrinya Text Recognition: Word-Aware Loss Weighting for Cross-Script Transfer Learning**|Yonatan Haile Medhanie et.al.|[2604.20813](http://arxiv.org/abs/2604.20813)|null|
 |**2026-04-22**|**OMIBench: Benchmarking Olympiad-Level Multi-Image Reasoning in Large Vision-Language Model**|Qiguang Chen et.al.|[2604.20806](http://arxiv.org/abs/2604.20806)|null|
@@ -1481,13 +1533,19 @@
 |**2026-03-19**|**Few-shot Acoustic Synthesis with Multimodal Flow Matching**|Amandine Brunetto et.al.|[2603.19176](http://arxiv.org/abs/2603.19176)|null|
 |**2026-03-19**|**Meanings and Measurements: Multi-Agent Probabilistic Grounding for Vision-Language Navigation**|Swagat Padhan et.al.|[2603.19166](http://arxiv.org/abs/2603.19166)|null|
 
-<p align=right>(<a href=#updated-on-20260423>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260424>back to top</a>)</p>
 
 ## Code Generation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2026-04-22**|**Parallel-SFT: Improving Zero-Shot Cross-Programming-Language Transfer for Code RL**|Zhaofeng Wu et.al.|[2604.20835](http://arxiv.org/abs/2604.20835)|null|
+|**2026-04-23**|**Learning to Communicate: Toward End-to-End Optimization of Multi-Agent Language Systems**|Ye Yu et.al.|[2604.21794](http://arxiv.org/abs/2604.21794)|null|
+|**2026-04-23**|**From If-Statements to ML Pipelines: Revisiting Bias in Code-Generation**|Minh Duc Bui et.al.|[2604.21716](http://arxiv.org/abs/2604.21716)|null|
+|**2026-04-23**|**DryRUN: On the Role of Public Tests in LLM-Driven Code Generation**|Kaushitha Silva et.al.|[2604.21598](http://arxiv.org/abs/2604.21598)|null|
+|**2026-04-23**|**A Metamorphic Testing Approach to Diagnosing Memorization in LLM-Based Program Repair**|Milan De Koning et.al.|[2604.21579](http://arxiv.org/abs/2604.21579)|null|
+|**2026-04-23**|**Assessing the Impact of Requirement Ambiguity on LLM-based Function-Level Code Generation**|Di Yang et.al.|[2604.21505](http://arxiv.org/abs/2604.21505)|null|
+|**2026-04-22**|**Learning Reasoning World Models for Parallel Code**|Gautam Singh et.al.|[2604.20926](http://arxiv.org/abs/2604.20926)|null|
+|**2026-04-23**|**Parallel-SFT: Improving Zero-Shot Cross-Programming-Language Transfer for Code RL**|Zhaofeng Wu et.al.|[2604.20835](http://arxiv.org/abs/2604.20835)|null|
 |**2026-04-22**|**Automatic Code and Test Generation of Smart Contracts from Coordination Models**|Elvis Konjoh Selabi et.al.|[2604.20507](http://arxiv.org/abs/2604.20507)|null|
 |**2026-04-22**|**WebGen-R1: Incentivizing Large Language Models to Generate Functional and Aesthetic Websites with Reinforcement Learning**|Juyong Jiang et.al.|[2604.20398](http://arxiv.org/abs/2604.20398)|null|
 |**2026-04-22**|**On the Quantization Robustness of Diffusion Language Models in Coding Benchmarks**|Aarav Gupta et.al.|[2604.20079](http://arxiv.org/abs/2604.20079)|null|
@@ -1677,12 +1735,22 @@
 |**2026-03-18**|**VeriAgent: A Tool-Integrated Multi-Agent System with Evolving Memory for PPA-Aware RTL Code Generation**|Yaoxiang Wang et.al.|[2603.17613](http://arxiv.org/abs/2603.17613)|null|
 |**2026-03-18**|**Omni-I2C: A Holistic Benchmark for High-Fidelity Image-to-Code Generation**|Jiawei Zhou et.al.|[2603.17508](http://arxiv.org/abs/2603.17508)|null|
 
-<p align=right>(<a href=#updated-on-20260423>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260424>back to top</a>)</p>
 
 ## Fine-tuning
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-23**|**Fine-Tuning Regimes Define Distinct Continual Learning Problems**|Paul-Tiberiu Iordache et.al.|[2604.21927](http://arxiv.org/abs/2604.21927)|null|
+|**2026-04-23**|**Long-Horizon Manipulation via Trace-Conditioned VLA Planning**|Isabella Liu et.al.|[2604.21924](http://arxiv.org/abs/2604.21924)|null|
+|**2026-04-23**|**Wave physics as a choreographic notation for partner dance**|Fernando Ramiro-Manzano et.al.|[2604.21918](http://arxiv.org/abs/2604.21918)|null|
+|**2026-04-23**|**When Prompts Override Vision: Prompt-Induced Hallucinations in LVLMs**|Pegah Khayatan et.al.|[2604.21911](http://arxiv.org/abs/2604.21911)|null|
+|**2026-04-23**|**Low-Rank Adaptation Redux for Large Models**|Bingcong Li et.al.|[2604.21905](http://arxiv.org/abs/2604.21905)|null|
+|**2026-04-23**|**UniGenDet: A Unified Generative-Discriminative Framework for Co-Evolutionary Image Generation and Generated Image Detection**|Yanran Zhang et.al.|[2604.21904](http://arxiv.org/abs/2604.21904)|null|
+|**2026-04-23**|**A Scale-Adaptive Framework for Joint Spatiotemporal Super-Resolution with Diffusion Models**|Max Defez et.al.|[2604.21903](http://arxiv.org/abs/2604.21903)|null|
+|**2026-04-23**|**GiVA: Gradient-Informed Bases for Vector-Based Adaptation**|Neeraj Gangwar et.al.|[2604.21901](http://arxiv.org/abs/2604.21901)|null|
+|**2026-04-23**|**Nemobot Games: Crafting Strategic AI Gaming Agents for Interactive Learning with Large Language Models**|Chee Wei Tan et.al.|[2604.21896](http://arxiv.org/abs/2604.21896)|null|
+|**2026-04-23**|**SPAC: Automating FPGA-based Network Switches with Protocol Adaptive Customization**|Guoyu Li et.al.|[2604.21881](http://arxiv.org/abs/2604.21881)|null|
 |**2026-04-22**|**SpeechParaling-Bench: A Comprehensive Benchmark for Paralinguistic-Aware Speech Generation**|Ruohan Liu et.al.|[2604.20842](http://arxiv.org/abs/2604.20842)|null|
 |**2026-04-22**|**Dynamic Construction of the Lovász Local Lemma**|Bernhard Haeupler et.al.|[2604.20836](http://arxiv.org/abs/2604.20836)|null|
 |**2026-04-22**|**Closing the Domain Gap in Biomedical Imaging by In-Context Control Samples**|Ana Sanchez-Fernandez et.al.|[2604.20824](http://arxiv.org/abs/2604.20824)|null|
@@ -1924,7 +1992,7 @@
 |**2026-03-19**|**DyMoE: Dynamic Expert Orchestration with Mixed-Precision Quantization for Efficient MoE Inference on Edge**|Yuegui Huang et.al.|[2603.19172](http://arxiv.org/abs/2603.19172)|null|
 |**2026-03-19**|**ARIADNE: A Perception-Reasoning Synergy Framework for Trustworthy Coronary Angiography Analysis**|Zhan Jin et.al.|[2603.19169](http://arxiv.org/abs/2603.19169)|null|
 
-<p align=right>(<a href=#updated-on-20260423>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260424>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
