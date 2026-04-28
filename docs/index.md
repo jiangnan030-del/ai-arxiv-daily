@@ -2,13 +2,23 @@
 layout: default
 ---
 
-## Updated on 2026.04.27
+## Updated on 2026.04.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Large Language Model
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-27**|**Long-Context Aware Upcycling: A New Frontier for Hybrid LLM Scaling**|Parsa Ashrafi Fashi et.al.|[2604.24715](http://arxiv.org/abs/2604.24715)|null|
+|**2026-04-27**|**When Prompt Under-Specification Improves Code Correctness: An Exploratory Study of Prompt Wording and Structure Effects on LLM-Based Code Generation**|Amal AKLI et.al.|[2604.24712](http://arxiv.org/abs/2604.24712)|null|
+|**2026-04-27**|**Case-Specific Rubrics for Clinical AI Evaluation: Methodology, Validation, and LLM-Clinician Agreement Across 823 Encounters**|Aaryan Shah et.al.|[2604.24710](http://arxiv.org/abs/2604.24710)|null|
+|**2026-04-27**|**Defective Task Descriptions in LLM-Based Code Generation: Detection and Analysis**|Amal Akli et.al.|[2604.24703](http://arxiv.org/abs/2604.24703)|null|
+|**2026-04-27**|**Green Shielding: A User-Centric Approach Towards Trustworthy AI**|Aaron J. Li et.al.|[2604.24700](http://arxiv.org/abs/2604.24700)|null|
+|**2026-04-27**|**The Chameleon's Limit: Investigating Persona Collapse and Homogenization in Large Language Models**|Yunze Xiao et.al.|[2604.24698](http://arxiv.org/abs/2604.24698)|null|
+|**2026-04-27**|**Can Current Agents Close the Discovery-to-Application Gap? A Case Study in Minecraft**|Zhou Ziheng et.al.|[2604.24697](http://arxiv.org/abs/2604.24697)|null|
+|**2026-04-27**|**NeuroClaw Technical Report**|Cheng Wang et.al.|[2604.24696](http://arxiv.org/abs/2604.24696)|null|
+|**2026-04-27**|**Contextual Linear Activation Steering of Language Models**|Brandon Hsu et.al.|[2604.24693](http://arxiv.org/abs/2604.24693)|null|
+|**2026-04-27**|**Can LLMs Act as Historians? Evaluating Historical Research Capabilities of LLMs via the Chinese Imperial Examination**|Lirong Gao et.al.|[2604.24690](http://arxiv.org/abs/2604.24690)|null|
 |**2026-04-24**|**How Do AI Agents Spend Your Money? Analyzing and Predicting Token Consumption in Agentic Coding Tasks**|Longju Bai et.al.|[2604.22750](http://arxiv.org/abs/2604.22750)|null|
 |**2026-04-24**|**Representational Harms in LLM-Generated Narratives Against Global Majority Nationalities**|Ilana Nguyen et.al.|[2604.22749](http://arxiv.org/abs/2604.22749)|null|
 |**2026-04-24**|**Code for All: Educational Applications of the "Vibe Coding" Hackathon in Programming Education across All Skill Levels**|Ashley J. Chen et.al.|[2604.22747](http://arxiv.org/abs/2604.22747)|null|
@@ -274,6 +284,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-27**|**Distributional Robustness of Linear Contracts**|Shiliang Zuo et.al.|[2604.24732](http://arxiv.org/abs/2604.24732)|null|
+|**2026-04-27**|**Case-Specific Rubrics for Clinical AI Evaluation: Methodology, Validation, and LLM-Clinician Agreement Across 823 Encounters**|Aaryan Shah et.al.|[2604.24710](http://arxiv.org/abs/2604.24710)|null|
+|**2026-04-27**|**The Chameleon's Limit: Investigating Persona Collapse and Homogenization in Large Language Models**|Yunze Xiao et.al.|[2604.24698](http://arxiv.org/abs/2604.24698)|null|
+|**2026-04-27**|**NeuroClaw Technical Report**|Cheng Wang et.al.|[2604.24696](http://arxiv.org/abs/2604.24696)|null|
+|**2026-04-27**|**Governing What You Cannot Observe: Adaptive Runtime Governance for Autonomous AI Agents**|German Marin et.al.|[2604.24686](http://arxiv.org/abs/2604.24686)|null|
+|**2026-04-27**|**The Last Human-Written Paper: Agent-Native Research Artifacts**|Jiachen Liu et.al.|[2604.24658](http://arxiv.org/abs/2604.24658)|null|
+|**2026-04-27**|**AgentWard: A Lifecycle Security Architecture for Autonomous AI Agents**|Yixiang Zhang et.al.|[2604.24657](http://arxiv.org/abs/2604.24657)|null|
+|**2026-04-27**|**Verification of Correlated Equilibria in Concurrent Reachability Games**|Senthil Rajasekaran et.al.|[2604.24655](http://arxiv.org/abs/2604.24655)|null|
+|**2026-04-27**|**K-MetBench: A Multi-Dimensional Benchmark for Fine-Grained Evaluation of Expert Reasoning, Locality, and Multimodality in Meteorology**|Soyeon Kim et.al.|[2604.24645](http://arxiv.org/abs/2604.24645)|null|
+|**2026-04-27**|**Skill Retrieval Augmentation for Agentic AI**|Weihang Su et.al.|[2604.24594](http://arxiv.org/abs/2604.24594)|null|
 |**2026-04-24**|**How Do AI Agents Spend Your Money? Analyzing and Predicting Token Consumption in Agentic Coding Tasks**|Longju Bai et.al.|[2604.22750](http://arxiv.org/abs/2604.22750)|null|
 |**2026-04-24**|**Agentic World Modeling: Foundations, Capabilities, Laws, and Beyond**|Meng Chu et.al.|[2604.22748](http://arxiv.org/abs/2604.22748)|null|
 |**2026-04-24**|**ATRS: Adaptive Trajectory Re-splitting via a Shared Neural Policy for Parallel Optimization**|Jiajun Yu et.al.|[2604.22715](http://arxiv.org/abs/2604.22715)|null|
@@ -539,6 +559,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-27**|**XGRAG: A Graph-Native Framework for Explaining KG-based Retrieval-Augmented Generation**|Zhuoling Li et.al.|[2604.24623](http://arxiv.org/abs/2604.24623)|null|
+|**2026-04-27**|**MEG-RAG: Quantifying Multi-modal Evidence Grounding for Evidence Selection in RAG**|Xihang Wang et.al.|[2604.24564](http://arxiv.org/abs/2604.24564)|null|
+|**2026-04-27**|**SEARCH-R: Structured Entity-Aware Retrieval with Chain-of-Reasoning Navigator for Multi-hop Question Answering**|Yuqing Fu et.al.|[2604.24515](http://arxiv.org/abs/2604.24515)|null|
+|**2026-04-27**|**Agentic clinical reasoning over longitudinal myeloma records: a retrospective evaluation against expert consensus**|Johannes Moll et.al.|[2604.24473](http://arxiv.org/abs/2604.24473)|null|
+|**2026-04-27**|**Reducing Redundancy in Retrieval-Augmented Generation through Chunk Filtering**|Daria Berdyugina et.al.|[2604.24334](http://arxiv.org/abs/2604.24334)|null|
+|**2026-04-27**|**MEMCoder: Multi-dimensional Evolving Memory for Private-Library-Oriented Code Generation**|Mofei Li et.al.|[2604.24222](http://arxiv.org/abs/2604.24222)|null|
+|**2026-04-27**|**Improving Robustness of Tabular Retrieval via Representational Stability**|Kushal Raj Bhandari et.al.|[2604.24040](http://arxiv.org/abs/2604.24040)|null|
+|**2026-04-26**|**Domain Fine-Tuning vs. Retrieval-Augmented Generation for Medical Multiple-Choice Question Answering: A Controlled Comparison at the 4B-Parameter Scale**|Avi-ad Avraam Buskila et.al.|[2604.23801](http://arxiv.org/abs/2604.23801)|null|
+|**2026-04-26**|**S2G-RAG: Structured Sufficiency and Gap Judging for Iterative Retrieval-Augmented QA**|Minghan Li et.al.|[2604.23783](http://arxiv.org/abs/2604.23783)|null|
+|**2026-04-26**|**GLIER: Generative Legal Inference and Evidence Ranking for Legal Case Retrieval**|Minghan Li et.al.|[2604.23779](http://arxiv.org/abs/2604.23779)|null|
 |**2026-04-24**|**Aligning Dense Retrievers with LLM Utility via DistillationAligning Dense Retrievers with LLM Utility via Distillation**|Rajinder Sandhu et.al.|[2604.22722](http://arxiv.org/abs/2604.22722)|null|
 |**2026-04-24**|**BERAG: Bayesian Ensemble Retrieval-Augmented Generation for Knowledge-based Visual Question Answering**|Jinghong Chen et.al.|[2604.22678](http://arxiv.org/abs/2604.22678)|null|
 |**2026-04-24**|**Can QPP Choose the Right Query Variant? Evaluating Query Variant Selection for RAG Pipelines**|Negar Arabzadeh et.al.|[2604.22661](http://arxiv.org/abs/2604.22661)|null|
@@ -782,6 +812,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-27**|**Learning to Think from Multiple Thinkers**|Nirmit Joshi et.al.|[2604.24737](http://arxiv.org/abs/2604.24737)|null|
+|**2026-04-27**|**Long-Context Aware Upcycling: A New Frontier for Hybrid LLM Scaling**|Parsa Ashrafi Fashi et.al.|[2604.24715](http://arxiv.org/abs/2604.24715)|null|
+|**2026-04-27**|**The Chameleon's Limit: Investigating Persona Collapse and Homogenization in Large Language Models**|Yunze Xiao et.al.|[2604.24698](http://arxiv.org/abs/2604.24698)|null|
+|**2026-04-27**|**Can LLMs Act as Historians? Evaluating Historical Research Capabilities of LLMs via the Chinese Imperial Examination**|Lirong Gao et.al.|[2604.24690](http://arxiv.org/abs/2604.24690)|null|
+|**2026-04-27**|**Leveraging LLMs for Multi-File DSL Code Generation: An Industrial Case Study**|Sivajeet Chand et.al.|[2604.24678](http://arxiv.org/abs/2604.24678)|null|
+|**2026-04-27**|**Benchmarking Source-Sensitive Reasoning in Turkish: Humans and LLMs under Evidential Trust Manipulation**|Sercan Karakaş et.al.|[2604.24665](http://arxiv.org/abs/2604.24665)|null|
+|**2026-04-27**|**Verification of Correlated Equilibria in Concurrent Reachability Games**|Senthil Rajasekaran et.al.|[2604.24655](http://arxiv.org/abs/2604.24655)|null|
+|**2026-04-27**|**DepthKV: Layer-Dependent KV Cache Pruning for Long-Context LLM Inference**|Zahra Dehghanighobadi et.al.|[2604.24647](http://arxiv.org/abs/2604.24647)|null|
+|**2026-04-27**|**K-MetBench: A Multi-Dimensional Benchmark for Fine-Grained Evaluation of Expert Reasoning, Locality, and Multimodality in Meteorology**|Soyeon Kim et.al.|[2604.24645](http://arxiv.org/abs/2604.24645)|null|
+|**2026-04-27**|**Less Is More: Engineering Challenges of On-Device Small Language Model Integration in a Mobile Application**|William Oliveira et.al.|[2604.24636](http://arxiv.org/abs/2604.24636)|null|
 |**2026-04-24**|**How Do AI Agents Spend Your Money? Analyzing and Predicting Token Consumption in Agentic Coding Tasks**|Longju Bai et.al.|[2604.22750](http://arxiv.org/abs/2604.22750)|null|
 |**2026-04-24**|**Thinking Without Words: Efficient Latent Reasoning with Abstract Chain-of-Thought**|Keshav Ramji et.al.|[2604.22709](http://arxiv.org/abs/2604.22709)|null|
 |**2026-04-24**|**Seeing the Whole Elephant: A Benchmark for Failure Attribution in LLM-based Multi-Agent Systems**|Mengzhuo Chen et.al.|[2604.22708](http://arxiv.org/abs/2604.22708)|null|
@@ -1047,6 +1087,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-27**|**World-R1: Reinforcing 3D Constraints for Text-to-Video Generation**|Weijie Wang et.al.|[2604.24764](http://arxiv.org/abs/2604.24764)|null|
+|**2026-04-27**|**Conflict-Aware Harmonized Rotational Gradient for Multiscale Kinetic Regimes**|Zhangyong Liang et.al.|[2604.24745](http://arxiv.org/abs/2604.24745)|null|
+|**2026-04-27**|**Dynamical Modeling of the Broad-Line Region with High-Mass Active Galactic Nuclei and Constraints on the Virial Factor**|Shu Wang et.al.|[2604.24721](http://arxiv.org/abs/2604.24721)|null|
+|**2026-04-27**|**Energy-Arena: A Dynamic Benchmark for Operational Energy Forecasting**|Max Kleinebrahm et.al.|[2604.24705](http://arxiv.org/abs/2604.24705)|null|
+|**2026-04-27**|**Learning Human-Intention Priors from Large-Scale Human Demonstrations for Robotic Manipulation**|Yifan Xie et.al.|[2604.24681](http://arxiv.org/abs/2604.24681)|null|
+|**2026-04-27**|**Quantifying the effect of phenotype on clustering behaviour in melanoma: from monoculture to co-culture**|Nathan Schofield et.al.|[2604.24673](http://arxiv.org/abs/2604.24673)|null|
+|**2026-04-27**|**Bottom-up realization of a type-II organic-TMD heterointerface: Pentacene on monolayer WS2**|Michele Capra et.al.|[2604.24671](http://arxiv.org/abs/2604.24671)|null|
+|**2026-04-27**|**Information bottleneck for learning the phase space of dynamics from high-dimensional experimental data**|K. Michael Martini et.al.|[2604.24662](http://arxiv.org/abs/2604.24662)|null|
+|**2026-04-27**|**Probing CLIP's Comprehension of 360-Degree Textual and Visual Semantics**|Hai Wang et.al.|[2604.24642](http://arxiv.org/abs/2604.24642)|null|
+|**2026-04-27**|**Meta-CoT: Enhancing Granularity and Generalization in Image Editing**|Shiyi Zhang et.al.|[2604.24625](http://arxiv.org/abs/2604.24625)|null|
 |**2026-04-24**|**How Do AI Agents Spend Your Money? Analyzing and Predicting Token Consumption in Agentic Coding Tasks**|Longju Bai et.al.|[2604.22750](http://arxiv.org/abs/2604.22750)|null|
 |**2026-04-24**|**Neural Recovery of Historical Lexical Structure in Bantu Languages from Modern Data**|Hillary Mutisya et.al.|[2604.22730](http://arxiv.org/abs/2604.22730)|null|
 |**2026-04-24**|**Aligning Dense Retrievers with LLM Utility via DistillationAligning Dense Retrievers with LLM Utility via Distillation**|Rajinder Sandhu et.al.|[2604.22722](http://arxiv.org/abs/2604.22722)|null|
@@ -1312,6 +1362,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-27**|**World-R1: Reinforcing 3D Constraints for Text-to-Video Generation**|Weijie Wang et.al.|[2604.24764](http://arxiv.org/abs/2604.24764)|null|
+|**2026-04-27**|**Tuna-2: Pixel Embeddings Beat Vision Encoders for Multimodal Understanding and Generation**|Zhiheng Liu et.al.|[2604.24763](http://arxiv.org/abs/2604.24763)|null|
+|**2026-04-27**|**NeuroClaw Technical Report**|Cheng Wang et.al.|[2604.24696](http://arxiv.org/abs/2604.24696)|null|
+|**2026-04-27**|**K-MetBench: A Multi-Dimensional Benchmark for Fine-Grained Evaluation of Expert Reasoning, Locality, and Multimodality in Meteorology**|Soyeon Kim et.al.|[2604.24645](http://arxiv.org/abs/2604.24645)|null|
+|**2026-04-27**|**Probing CLIP's Comprehension of 360-Degree Textual and Visual Semantics**|Hai Wang et.al.|[2604.24642](http://arxiv.org/abs/2604.24642)|null|
+|**2026-04-27**|**Majorization-Guided Test-Time Adaptation for Vision-Language Models under Modality-Specific Shift**|Lixian Chen et.al.|[2604.24602](http://arxiv.org/abs/2604.24602)|null|
+|**2026-04-27**|**A systematic evaluation of vision-language models for observational astronomical reasoning tasks**|Wenke Ren et.al.|[2604.24589](http://arxiv.org/abs/2604.24589)|null|
+|**2026-04-27**|**Bayesian inference for hidden Markov models under genuine multimodality with application to ecological time series**|Marco A. Gallegos-Herrada et.al.|[2604.24587](http://arxiv.org/abs/2604.24587)|null|
+|**2026-04-27**|**Improving Vision-language Models with Perception-centric Process Reward Models**|Yingqian Min et.al.|[2604.24583](http://arxiv.org/abs/2604.24583)|null|
+|**2026-04-27**|**Diffusion Model as a Generalist Segmentation Learner**|Haoxiao Wang et.al.|[2604.24575](http://arxiv.org/abs/2604.24575)|null|
 |**2026-04-24**|**Inter-Stance: A Dyadic Multimodal Corpus for Conversational Stance Analysis**|Xiang Zhang et.al.|[2604.22739](http://arxiv.org/abs/2604.22739)|null|
 |**2026-04-24**|**CosmicDancePro -- Measuring LEO satellite's orbital decay and network connectivity implications during solar storms**|Suvam Basak et.al.|[2604.22685](http://arxiv.org/abs/2604.22685)|null|
 |**2026-04-24**|**BERAG: Bayesian Ensemble Retrieval-Augmented Generation for Knowledge-based Visual Question Answering**|Jinghong Chen et.al.|[2604.22678](http://arxiv.org/abs/2604.22678)|null|
@@ -1577,6 +1637,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-27**|**When Prompt Under-Specification Improves Code Correctness: An Exploratory Study of Prompt Wording and Structure Effects on LLM-Based Code Generation**|Amal AKLI et.al.|[2604.24712](http://arxiv.org/abs/2604.24712)|null|
+|**2026-04-27**|**Defective Task Descriptions in LLM-Based Code Generation: Detection and Analysis**|Amal Akli et.al.|[2604.24703](http://arxiv.org/abs/2604.24703)|null|
+|**2026-04-27**|**Leveraging LLMs for Multi-File DSL Code Generation: An Industrial Case Study**|Sivajeet Chand et.al.|[2604.24678](http://arxiv.org/abs/2604.24678)|null|
+|**2026-04-27**|**DepthKV: Layer-Dependent KV Cache Pruning for Long-Context LLM Inference**|Zahra Dehghanighobadi et.al.|[2604.24647](http://arxiv.org/abs/2604.24647)|null|
+|**2026-04-27**|**Evaluation of LLM-Based Software Engineering Tools: Practices, Challenges, and Future Directions**|Utku Boran Torun et.al.|[2604.24621](http://arxiv.org/abs/2604.24621)|null|
+|**2026-04-27**|**Aligned Multi-View Scripts for Universal Chart-to-Code Generation**|Zhihan Zhang et.al.|[2604.24559](http://arxiv.org/abs/2604.24559)|null|
+|**2026-04-27**|**Incisor: Ex Ante Cloud Instance Selection for HPC Jobs**|Michael A. Laurenzano et.al.|[2604.24464](http://arxiv.org/abs/2604.24464)|null|
+|**2026-04-27**|**MEMCoder: Multi-dimensional Evolving Memory for Private-Library-Oriented Code Generation**|Mofei Li et.al.|[2604.24222](http://arxiv.org/abs/2604.24222)|null|
+|**2026-04-27**|**RefEvo: Agentic Design with Co-Evolutionary Verification for Agile Reference Model Generation**|Yifan Zhang et.al.|[2604.24218](http://arxiv.org/abs/2604.24218)|null|
+|**2026-04-27**|**Empowering Autonomous Debugging Agents with Efficient Dynamic Analysis**|Jiahong Xiang et.al.|[2604.24212](http://arxiv.org/abs/2604.24212)|null|
 |**2026-04-24**|**RealBench: A Repo-Level Code Generation Benchmark Aligned with Real-World Software Development Practices**|Jia Li et.al.|[2604.22659](http://arxiv.org/abs/2604.22659)|null|
 |**2026-04-24**|**From Natural Language to Verified Code: Toward AI Assisted Problem-to-Code Generation with Dafny-Based Formal Verification**|Md Erfan et.al.|[2604.22601](http://arxiv.org/abs/2604.22601)|null|
 |**2026-04-24**|**Dr.Sai: An agentic AI for real-world physics analysis at BESIII**|Mingfeng He et.al.|[2604.22541](http://arxiv.org/abs/2604.22541)|null|
@@ -1784,6 +1854,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-27**|**Personalized Worked Example Generation from Student Code Submissions using Pattern-based Knowledge Components**|Griffin Pitts et.al.|[2604.24758](http://arxiv.org/abs/2604.24758)|null|
+|**2026-04-27**|**DiffuSAM: Diffusion-Based Prompt-Free SAM2 for Few-Shot and Source-Free Medical Image Segmentation**|Tal Grossman et.al.|[2604.24719](http://arxiv.org/abs/2604.24719)|null|
+|**2026-04-27**|**Long-Context Aware Upcycling: A New Frontier for Hybrid LLM Scaling**|Parsa Ashrafi Fashi et.al.|[2604.24715](http://arxiv.org/abs/2604.24715)|null|
+|**2026-04-27**|**Scalable Hyperparameter-Divergent Ensemble Training with Automatic Learning Rate Exploration for Large Models**|Hailing Cheng et.al.|[2604.24708](http://arxiv.org/abs/2604.24708)|null|
+|**2026-04-27**|**Physics-driven innovations toward the democratization of proton therapy**|Vivek Maradia et.al.|[2604.24704](http://arxiv.org/abs/2604.24704)|null|
+|**2026-04-27**|**Defective Task Descriptions in LLM-Based Code Generation: Detection and Analysis**|Amal Akli et.al.|[2604.24703](http://arxiv.org/abs/2604.24703)|null|
+|**2026-04-27**|**Contextual Linear Activation Steering of Language Models**|Brandon Hsu et.al.|[2604.24693](http://arxiv.org/abs/2604.24693)|null|
+|**2026-04-27**|**Governing What You Cannot Observe: Adaptive Runtime Governance for Autonomous AI Agents**|German Marin et.al.|[2604.24686](http://arxiv.org/abs/2604.24686)|null|
+|**2026-04-27**|**Leveraging LLMs for Multi-File DSL Code Generation: An Industrial Case Study**|Sivajeet Chand et.al.|[2604.24678](http://arxiv.org/abs/2604.24678)|null|
+|**2026-04-27**|**Benefits and Costs of Adaptive Sampling**|Yu-Shiou Willy Lin et.al.|[2604.24652](http://arxiv.org/abs/2604.24652)|null|
 |**2026-04-24**|**ATRS: Adaptive Trajectory Re-splitting via a Shared Neural Policy for Parallel Optimization**|Jiajun Yu et.al.|[2604.22715](http://arxiv.org/abs/2604.22715)|null|
 |**2026-04-24**|**Statistical Analysis of Markovian Generative Modeling**|Eddie Aamari et.al.|[2604.22712](http://arxiv.org/abs/2604.22712)|null|
 |**2026-04-24**|**Thinking Without Words: Efficient Latent Reasoning with Abstract Chain-of-Thought**|Keshav Ramji et.al.|[2604.22709](http://arxiv.org/abs/2604.22709)|null|
